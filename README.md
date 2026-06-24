@@ -7,11 +7,7 @@
   />
 
   <!-- Name -->
-  <h1 style="margin: -18px 0 0 0; padding: 0; line-height: 1.02;">
-    <span style="font-family: Georgia, 'Times New Roman', serif; font-size: 84px; font-weight: 900; color: #101010; letter-spacing: 0.4px;">
-      Hi, I'm DhavalaMadhav
-    </span>
-  </h1>
+  <h1 align="center">Hi, I'm DhavalaMadhav</h1>
 
   <!-- Subtitle -->
   <img
@@ -22,7 +18,7 @@
   <br/>
 
   <!-- Contact Buttons -->
-  <a href="https://github.com/madhavdhavalasai">
+  <a href="https://github.com/dhavalaMadhav">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="50" />
   </a>
   &nbsp;
@@ -34,27 +30,19 @@
     <img src="https://img.shields.io/badge/Portfolio-14B8A6?style=for-the-badge&logo=vercel&logoColor=white" height="50" />
   </a>
   &nbsp;
-  <a href="https://leetcode.com/madhavdhavalasai">
+  <a href="https://leetcode.com/u/madhavdhavala/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="50" />
   </a>
   &nbsp;
-  <a href="mailto:madhavdhavalasai@gmail.com">
+  <a href="mailto:madhavdhavala0@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="50" />
   </a>
 
   <br/><br/>
 
-  <p style="font-family: Georgia, 'Times New Roman', serif; font-size: 17px; color: #2d2d2d; margin: 2px 0;">
-    <strong>AI Engineer &nbsp;•&nbsp; Full Stack Developer &nbsp;•&nbsp; Freelancer</strong>
-  </p>
-
-  <p style="font-family: Georgia, 'Times New Roman', serif; font-size: 15px; color: #525252; margin: 2px 0;">
-    B.Tech Computer Science Engineering &nbsp;(CGPA 9.19)
-  </p>
-
-  <p style="font-family: Georgia, 'Times New Roman', serif; font-size: 15px; color: #525252; margin: 2px 0 8px 0;">
-    Vignan's Institute of Information Technology &nbsp;·&nbsp; Visakhapatnam, Andhra Pradesh
-  </p>
+  <p><strong>AI Engineer &nbsp;•&nbsp; Full Stack Developer &nbsp;•&nbsp; Freelancer</strong></p>
+  <p>B.Tech Computer Science Engineering &nbsp;(CGPA 9.19)</p>
+  <p>Vignan's Institute of Information Technology &nbsp;·&nbsp; Visakhapatnam, Andhra Pradesh</p>
 
 </div>
 
@@ -64,10 +52,8 @@
 
 <br/>
 
-<div align="center">
-  <h2 style="font-family: Georgia, 'Times New Roman', serif; color: #111111; margin-bottom: 4px;">About</h2>
-  <img src="https://svgur.com/i/15kA.svg" width="140" height="14" alt="curved underline" />
-</div>
+<h2 align="left">About</h2>
+<p align="left">﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏</p>
 
 ```python
 class MadhavAIEngineer:
@@ -94,7 +80,7 @@ class MadhavAIEngineer:
     open_to     = ["Full-time Roles", "Internships", "AI / Full-Stack Freelance Projects"]
 ```
 
-<p style="font-family: Georgia, 'Times New Roman', serif;">
+<p align="left">
 I engineer AI systems that move beyond demos — contextual, observable, and production-ready.<br/>
 I bring the same rigor to full-stack web work: clean APIs, reliable deployments, real users.
 </p>
@@ -105,16 +91,14 @@ I bring the same rigor to full-stack web work: clean APIs, reliable deployments,
 
 <br/>
 
-<div align="center">
-  <h2 style="font-family: Georgia, 'Times New Roman', serif; color: #111111; margin-bottom: 4px;">Professional Experience</h2>
-  <img src="https://svgur.com/i/15kA.svg" width="250" height="14" alt="curved underline" />
-</div>
+<h2 align="left">Professional Experience</h2>
+<p align="left">﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏</p>
 
-<table width="100%" cellspacing="0" cellpadding="0">
+<table width="100%">
   <tr>
     <td width="48%" valign="top">
 
-### AI Engineer · HTS — Halftone Systems
+<h3>AI Engineer · HTS — Halftone Systems</h3>
 
 Designed and shipped a production-grade conversational AI assistant using RAG — real-time query handling, contextual response generation, and performance evaluation across precision, recall, and quality metrics. Managed backend AI workflows end-to-end and contributed to system monitoring.
 
@@ -122,7 +106,7 @@ Designed and shipped a production-grade conversational AI assistant using RAG �
   <td width="4%"></td>
   <td width="48%" valign="top">
 
-### Full Stack Freelancer · <a href="https://vexamo.in">Vexamo</a>
+<h3>Full Stack Freelancer · <a href="https://vexamo.in">Vexamo</a></h3>
 
 Delivered 5+ client projects for professionals and educational institutions — responsive full-stack applications, custom dashboards, and workflow automation tools. Managed the complete project lifecycle from requirements through deployment. Every project ships to production.
 
@@ -138,76 +122,57 @@ Delivered 5+ client projects for professionals and educational institutions — 
 
 <br/>
 
-<div align="center">
-  <h2 style="font-family: Georgia, 'Times New Roman', serif; color: #111111; margin-bottom: 4px;">Technical Skills</h2>
-  <img src="https://svgur.com/i/15kA.svg" width="190" height="14" alt="curved underline" />
-</div>
-
-<div align="center">
-
-<p style="font-family: Georgia, 'Times New Roman', serif; font-size: 18px; color: #222222; margin: 8px 0 16px 0;">
-  <strong>AI &amp; Machine Learning</strong> &nbsp;&nbsp;│&nbsp;&nbsp;
-  <strong>Full Stack Development</strong> &nbsp;&nbsp;│&nbsp;&nbsp;
-  <strong>Tools &amp; Platforms</strong>
-</p>
-
-<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white&color=0F172A" height="38" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="38" />
-<img src="https://img.shields.io/badge/ChromaDB-7C3AED?style=for-the-badge&logoColor=white" height="38" />
-<img src="https://img.shields.io/badge/Groq-111111?style=for-the-badge&logoColor=white&color=111827" height="38" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="38" />
-<img src="https://img.shields.io/badge/RAG-2563EB?style=for-the-badge&logoColor=white" height="38" />
-<img src="https://img.shields.io/badge/Vector%20Embeddings-0F766E?style=for-the-badge&logoColor=white" height="38" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="38" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="38" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="38" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="38" />
-<img src="https://img.shields.io/badge/REST%20APIs-0284C7?style=for-the-badge&logoColor=white" height="38" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="38" />
-<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" height="38" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="38" />
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" height="38" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="38" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="38" />
-
-</div>
-
-<br/>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:d8d8d8,100:d8d8d8&height=1&section=header&text=&animation=false" width="74%" />
-</p>
-
-<br/>
-
-<div align="center">
-  <h2 style="font-family: Georgia, 'Times New Roman', serif; color: #111111; margin-bottom: 4px;">Featured Projects</h2>
-  <img src="https://svgur.com/i/15kA.svg" width="185" height="14" alt="curved underline" />
-</div>
+<h2 align="left">Technical Skills</h2>
+<p align="left">﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏</p>
 
 <table width="100%">
   <tr>
-    <td width="33%" valign="top">
+    <td width="32%" valign="top">
 
-### RAG-Based AI System
+<h3>AI &amp; Machine Learning</h3>
 
-A production-grade Retrieval-Augmented Generation platform with semantic document search, grounded LLM responses, latency monitoring, token analytics, and JSONL telemetry for AI observability.
+<img src="https://img.shields.io/badge/LangChain-0F172A?style=for-the-badge&logo=chainlink&logoColor=white" height="36" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="36" />
+<img src="https://img.shields.io/badge/ChromaDB-7C3AED?style=for-the-badge&logoColor=white" height="36" />
+<img src="https://img.shields.io/badge/Groq-111827?style=for-the-badge&logoColor=white" height="36" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="36" />
+<img src="https://img.shields.io/badge/RAG-2563EB?style=for-the-badge&logoColor=white" height="36" />
+<img src="https://img.shields.io/badge/Vector%20Embeddings-0F766E?style=for-the-badge&logoColor=white" height="36" />
 
-  </td>
-  <td width="33%" valign="top">
+    </td>
 
-### MailMind
+    <td width="2%" align="center" valign="top">
+      <h3>|</h3>
+    </td>
 
-AI email assistant that organizes, summarizes, and acts on emails via LLM-powered automation — connected to Gmail with full OAuth2 security and a clean React frontend.
+    <td width="32%" valign="top">
 
-  </td>
-  <td width="33%" valign="top">
+<h3>Full Stack Development</h3>
 
-### Meeting Intelligence Platform
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="36" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="36" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="36" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="36" />
+<img src="https://img.shields.io/badge/REST%20APIs-0284C7?style=for-the-badge&logoColor=white" height="36" />
 
-AI conferencing with live speech transcription, semantic search over transcripts, meeting summarization, and a RAG-driven chatbot for post-meeting Q&A.
+    </td>
 
-  </td>
+    <td width="2%" align="center" valign="top">
+      <h3>|</h3>
+    </td>
+
+    <td width="32%" valign="top">
+
+<h3>Tools &amp; Platforms</h3>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="36" />
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" height="36" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="36" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" height="36" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="36" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="36" />
+
+    </td>
   </tr>
 </table>
 
@@ -219,10 +184,36 @@ AI conferencing with live speech transcription, semantic search over transcripts
 
 <br/>
 
-<div align="center">
-  <h2 style="font-family: Georgia, 'Times New Roman', serif; color: #111111; margin-bottom: 4px;">GitHub Analytics</h2>
-  <img src="https://svgur.com/i/15kA.svg" width="180" height="14" alt="curved underline" />
-</div>
+<h2 align="left">Featured Projects</h2>
+<p align="left">﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏</p>
+
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <h3>RAG-Based AI System</h3>
+      A production-grade Retrieval-Augmented Generation platform with semantic document search, grounded LLM responses, latency monitoring, token analytics, and JSONL telemetry for AI observability.
+    </td>
+    <td width="33%" valign="top">
+      <h3>MailMind</h3>
+      AI email assistant that organizes, summarizes, and acts on emails via LLM-powered automation — connected to Gmail with full OAuth2 security and a clean React frontend.
+    </td>
+    <td width="33%" valign="top">
+      <h3>Meeting Intelligence Platform</h3>
+      AI conferencing with live speech transcription, semantic search over transcripts, meeting summarization, and a RAG-driven chatbot for post-meeting Q&A.
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:d8d8d8,100:d8d8d8&height=1&section=header&text=&animation=false" width="74%" />
+</p>
+
+<br/>
+
+<h2 align="left">GitHub Analytics</h2>
+<p align="left">﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏</p>
 
 <div align="center">
   <table cellspacing="0" cellpadding="8" border="0">
@@ -246,7 +237,7 @@ AI conferencing with live speech transcription, semantic search over transcripts
 
   <br/><br/>
 
-  <img src="https://komarev.com/ghpvc/?username=dhavalaMadhav&label=Profile+Views&color=0F766E&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=dhavalaMadhav&label=Profile+Views&color=0F766E&style=flat-square" alt="Profile Views" />
 </div>
 
 <br/>
@@ -257,10 +248,8 @@ AI conferencing with live speech transcription, semantic search over transcripts
 
 <br/>
 
-<div align="center">
-  <h2 style="font-family: Georgia, 'Times New Roman', serif; color: #111111; margin-bottom: 4px;">Pinned Repositories</h2>
-  <img src="https://svgur.com/i/15kA.svg" width="205" height="14" alt="curved underline" />
-</div>
+<h2 align="left">Pinned Repositories</h2>
+<p align="left">﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏</p>
 
 <div align="center">
   <a href="https://github.com/dhavalaMadhav/aiConferencing">
@@ -286,34 +275,30 @@ AI conferencing with live speech transcription, semantic search over transcripts
 
 <br/>
 
-<div align="center">
-  <h2 style="font-family: Georgia, 'Times New Roman', serif; color: #111111; margin-bottom: 4px;">Achievements & Certifications</h2>
-  <img src="https://svgur.com/i/15kA.svg" width="275" height="14" alt="curved underline" />
-</div>
+<h2 align="left">Achievements & Certifications</h2>
+<p align="left">﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏</p>
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-
-### Certifications
-
-- Python Essentials 1
-- Python Essentials 2
-- HTML
-- CSS
-- JavaScript
-
-  </td>
-  <td width="50%" valign="top">
-
-### Recognition
-
-- National-level Hackathons — Top Performer
-- Build Bharat through AI — Participant
-- SuperSus Hackathon — Finalist
-- Competitive Innovation Events — Multiple Top Placements
-
-  </td>
+      <h3>Certifications</h3>
+      <ul>
+        <li>Python Essentials 1</li>
+        <li>Python Essentials 2</li>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JavaScript</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Recognition</h3>
+      <ul>
+        <li>National-level Hackathons — Top Performer</li>
+        <li>Build Bharat through AI — Participant</li>
+        <li>SuperSus Hackathon — Finalist</li>
+        <li>Competitive Innovation Events — Multiple Top Placements</li>
+      </ul>
+    </td>
   </tr>
 </table>
 
@@ -325,47 +310,21 @@ AI conferencing with live speech transcription, semantic search over transcripts
 
 <br/>
 
-<div align="center">
-  <h2 style="font-family: Georgia, 'Times New Roman', serif; color: #111111; margin-bottom: 4px;">Why Recruiters Should Consider Me</h2>
-  <img src="https://svgur.com/i/15kA.svg" width="315" height="14" alt="curved underline" />
-</div>
+<h2 align="left">Why Recruiters Should Consider Me</h2>
+<p align="left">﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏</p>
 
 <table width="100%">
   <tr>
-    <td width="25%" valign="top">
-      <strong>AI Engineering</strong><br/>
-      Real RAG systems — production deployments with telemetry, observability, and LLM evaluation. Not tutorials.
-    </td>
-    <td width="25%" valign="top">
-      <strong>Freelance Track Record</strong><br/>
-      5+ delivered projects. Full lifecycle ownership from requirements to deployment.
-    </td>
-    <td width="25%" valign="top">
-      <strong>Full Stack Depth</strong><br/>
-      MERN stack, REST APIs, Docker, cloud deployments on Vercel and Render.
-    </td>
-    <td width="25%" valign="top">
-      <strong>Academic Excellence</strong><br/>
-      9.19 CGPA at VIIT, B.Tech CSE — consistently in the top tier of the program.
-    </td>
+    <td width="25%" valign="top"><strong>AI Engineering</strong><br/>Real RAG systems — production deployments with telemetry, observability, and LLM evaluation. Not tutorials.</td>
+    <td width="25%" valign="top"><strong>Freelance Track Record</strong><br/>5+ delivered projects. Full lifecycle ownership from requirements to deployment.</td>
+    <td width="25%" valign="top"><strong>Full Stack Depth</strong><br/>MERN stack, REST APIs, Docker, cloud deployments on Vercel and Render.</td>
+    <td width="25%" valign="top"><strong>Academic Excellence</strong><br/>9.19 CGPA at VIIT, B.Tech CSE — consistently in the top tier of the program.</td>
   </tr>
   <tr>
-    <td width="25%" valign="top">
-      <strong>Modern AI Stack</strong><br/>
-      LangChain · ChromaDB · Groq · FastAPI · Vector Embeddings · OAuth2
-    </td>
-    <td width="25%" valign="top">
-      <strong>Real Client Work</strong><br/>
-      Delivered for professionals and educational institutions with measurable impact.
-    </td>
-    <td width="25%" valign="top">
-      <strong>Ships to Production</strong><br/>
-      Every project is deployed — not a portfolio screenshot, a live URL.
-    </td>
-    <td width="25%" valign="top">
-      <strong>Product Mindset</strong><br/>
-      Thinks in user outcomes, not just code. Builds things people actually use.
-    </td>
+    <td width="25%" valign="top"><strong>Modern AI Stack</strong><br/>LangChain · ChromaDB · Groq · FastAPI · Vector Embeddings · OAuth2</td>
+    <td width="25%" valign="top"><strong>Real Client Work</strong><br/>Delivered for professionals and educational institutions with measurable impact.</td>
+    <td width="25%" valign="top"><strong>Ships to Production</strong><br/>Every project is deployed — not a portfolio screenshot, a live URL.</td>
+    <td width="25%" valign="top"><strong>Product Mindset</strong><br/>Thinks in user outcomes, not just code. Builds things people actually use.</td>
   </tr>
 </table>
 
@@ -378,12 +337,9 @@ AI conferencing with live speech transcription, semantic search over transcripts
 <br/>
 
 <div align="center">
+  <p><strong>Let's build something worth shipping.</strong></p>
 
-  <p style="font-family: Georgia, 'Times New Roman', serif; font-size: 22px; color: #111111; margin-bottom: 10px;">
-    <strong>Let's build something worth shipping.</strong>
-  </p>
-
-  <a href="https://github.com/dhavalMadhav">
+  <a href="https://github.com/dhavalaMadhav">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="50" />
   </a>
   &nbsp;
@@ -405,14 +361,12 @@ AI conferencing with live speech transcription, semantic search over transcripts
 
   <br/><br/>
 
-  <sub style="font-family: Georgia, 'Times New Roman', serif;">DhavalaMadhav &nbsp;·&nbsp; Visakhapatnam, India &nbsp;·&nbsp; B.Tech CSE 2027</sub>
+  <sub>DhavalaMadhav &nbsp;·&nbsp; Visakhapatnam, India &nbsp;·&nbsp; B.Tech CSE 2027</sub>
 
   <br/><br/>
 
-  <!-- Footer Wave -->
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:d6d6d6,50:e8e8e8,100:f7f7f7&height=120&section=footer&text=&animation=false"
     width="100%"
   />
-
 </div>
