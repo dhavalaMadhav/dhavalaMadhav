@@ -220,25 +220,25 @@ AI conferencing with live speech transcription, semantic search over transcripts
   <table cellspacing="0" cellpadding="8" border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=madhavdhavalasai&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=default&bg_color=fcfcfc&title_color=111111&icon_color=0F766E&text_color=4B5563" height="180" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=dhavalaMadhav&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=default&bg_color=fcfcfc&title_color=111111&icon_color=0F766E&text_color=4B5563" height="180" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhavdhavalasai&layout=compact&hide_border=true&theme=default&bg_color=fcfcfc&title_color=111111&text_color=4B5563&langs_count=8" height="180" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhavalaMadhav&layout=compact&hide_border=true&theme=default&bg_color=fcfcfc&title_color=111111&text_color=4B5563&langs_count=8" height="180" alt="Top Languages" />
       </td>
     </tr>
   </table>
 
   <br/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhavdhavalasai&theme=minimal&bg_color=fcfcfc&color=475569&line=0F766E&point=111111&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhavalaMadhav&theme=minimal&bg_color=fcfcfc&color=475569&line=0F766E&point=111111&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
 
   <br/><br/>
 
-  <img src="https://streak-stats.demolab.com?user=madhavdhavalasai&theme=default&hide_border=true&ring=0F766E&fire=0F766E&currStreakLabel=111111&sideLabels=475569&dates=6B7280" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=dhavalaMadhav&theme=default&hide_border=true&ring=0F766E&fire=0F766E&currStreakLabel=111111&sideLabels=475569&dates=6B7280" alt="GitHub Streak" />
 
   <br/><br/>
 
-  <img src="https://komarev.com/ghpvc/?username=madhavdhavalasai&label=Profile+Views&color=0F766E&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=dhavalaMadhav&label=Profile+Views&color=0F766E&style=flat-square" />
 </div>
 
 <br/>
@@ -252,18 +252,18 @@ AI conferencing with live speech transcription, semantic search over transcripts
 ## Pinned Repositories
 
 <div align="center">
-  <a href="https://github.com/madhavdhavalasai/repository-name-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=madhavdhavalasai&repo=repository-name-1&theme=default&hide_border=true&title_color=111111&icon_color=0F766E&text_color=4B5563&bg_color=fcfcfc" />
+  <a href="https://github.com/dhavalaMadhav/aiConferencing">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhavalaMadhav&repo=aiConferencing&theme=default&hide_border=true&title_color=111111&icon_color=0F766E&text_color=4B5563&bg_color=fcfcfc" />
   </a>
-  <a href="https://github.com/madhavdhavalasai/repository-name-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=madhavdhavalasai&repo=repository-name-2&theme=default&hide_border=true&title_color=111111&icon_color=0F766E&text_color=4B5563&bg_color=fcfcfc" />
+  <a href="https://github.com/dhavalaMadhav/repository-name-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhavalaMadhav&repo=repository-name-2&theme=default&hide_border=true&title_color=111111&icon_color=0F766E&text_color=4B5563&bg_color=fcfcfc" />
   </a>
   <br/>
-  <a href="https://github.com/madhavdhavalasai/repository-name-3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=madhavdhavalasai&repo=repository-name-3&theme=default&hide_border=true&title_color=111111&icon_color=0F766E&text_color=4B5563&bg_color=fcfcfc" />
+  <a href="https://github.com/dhavalaMadhav/repository-name-3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhavalaMadhav&repo=repository-name-3&theme=default&hide_border=true&title_color=111111&icon_color=0F766E&text_color=4B5563&bg_color=fcfcfc" />
   </a>
-  <a href="https://github.com/madhavdhavalasai/repository-name-4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=madhavdhavalasai&repo=repository-name-4&theme=default&hide_border=true&title_color=111111&icon_color=0F766E&text_color=4B5563&bg_color=fcfcfc" />
+  <a href="https://github.com/dhavalaMadhav/repository-name-4">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhavalaMadhav&repo=repository-name-4&theme=default&hide_border=true&title_color=111111&icon_color=0F766E&text_color=4B5563&bg_color=fcfcfc" />
   </a>
 </div>
 
