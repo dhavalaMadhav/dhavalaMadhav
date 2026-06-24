@@ -255,15 +255,15 @@ AI conferencing with live speech transcription, semantic search over transcripts
   <a href="https://github.com/dhavalaMadhav/aiConferencing">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhavalaMadhav&repo=aiConferencing&theme=default&hide_border=true&title_color=111111&icon_color=0F766E&text_color=4B5563&bg_color=fcfcfc" />
   </a>
-  <a href="https://github.com/dhavalaMadhav/repository-name-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhavalaMadhav&repo=repository-name-2&theme=default&hide_border=true&title_color=111111&icon_color=0F766E&text_color=4B5563&bg_color=fcfcfc" />
+  <a href="https://github.com/dhavalaMadhav/gmail-agent">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhavalaMadhav&repo=gmail-agent&theme=default&hide_border=true&title_color=111111&icon_color=0F766E&text_color=4B5563&bg_color=fcfcfc" />
   </a>
   <br/>
-  <a href="https://github.com/dhavalaMadhav/repository-name-3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhavalaMadhav&repo=repository-name-3&theme=default&hide_border=true&title_color=111111&icon_color=0F766E&text_color=4B5563&bg_color=fcfcfc" />
+  <a href="https://github.com/dhavalaMadhav/traffic-automation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhavalaMadhav&repo=traffic-automation&theme=default&hide_border=true&title_color=111111&icon_color=0F766E&text_color=4B5563&bg_color=fcfcfc" />
   </a>
-  <a href="https://github.com/dhavalaMadhav/repository-name-4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhavalaMadhav&repo=repository-name-4&theme=default&hide_border=true&title_color=111111&icon_color=0F766E&text_color=4B5563&bg_color=fcfcfc" />
+  <a href="https://github.com/dhavalaMadhav/unmask">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhavalaMadhav&repo=unmask&theme=default&hide_border=true&title_color=111111&icon_color=0F766E&text_color=4B5563&bg_color=fcfcfc" />
   </a>
 </div>
 
@@ -368,7 +368,7 @@ AI conferencing with live speech transcription, semantic search over transcripts
     <strong>Let's build something worth shipping.</strong>
   </p>
 
-  <a href="https://github.com/madhavdhavalasai">
+  <a href="https://github.com/dhavalMadhav">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="50" />
   </a>
   &nbsp;
@@ -380,11 +380,11 @@ AI conferencing with live speech transcription, semantic search over transcripts
     <img src="https://img.shields.io/badge/Portfolio-14B8A6?style=for-the-badge&logo=vercel&logoColor=white" height="50" />
   </a>
   &nbsp;
-  <a href="https://leetcode.com/madhavdhavalasai">
+  <a href="https://leetcode.com/u/madhavdhavala/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="50" />
   </a>
   &nbsp;
-  <a href="mailto:madhavdhavalasai@gmail.com">
+  <a href="mailto:madhavdhavala0@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="50" />
   </a>
 
