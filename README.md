@@ -44,63 +44,48 @@
 
 <br/>
 
-<div align="left">
-
-  <picture>
-    <img
-      src="https://ghchart.rshah.org/2563eb/dhavalaMadhav"
-      alt="Dhavala Madhav GitHub contribution heatmap"
-      width="1400"
-    />
-  </picture>
-
-</div>
+<p align="center">
+  <img
+    src="https://ghchart.rshah.org/2563eb/dhavalaMadhav"
+    alt="Dhavala Madhav GitHub contribution heatmap"
+    style="width: 100%;"
+  />
+</p>
 
 <br/>
 
-<div align="center">
+<h2 align="center">GitHub Stats</h2>
 
-  <picture>
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=dhavalaMadhav&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=default&bg_color=fcfcfc&title_color=111111&icon_color=2563eb&text_color=4B5563"
-      width="100%"
-      alt="GitHub Stats"
-    />
-  </picture>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=dhavalaMadhav&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=default&bg_color=fcfcfc&title_color=111111&icon_color=2563eb&text_color=4B5563"
+    alt="GitHub Stats"
+    style="width: 49%;"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhavalaMadhav&layout=compact&hide_border=true&theme=default&bg_color=fcfcfc&title_color=111111&text_color=4B5563&langs_count=8"
+    alt="Top Languages"
+    style="width: 49%;"
+  />
+</p>
 
-  <br/>
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=dhavalaMadhav&theme=default&hide_border=true&ring=2563eb&fire=2563eb&currStreakLabel=111111&sideLabels=475569&dates=6B7280"
+    alt="Contribution Summary"
+    style="width: 70%;"
+  />
+</p>
 
-  <picture>
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhavalaMadhav&layout=compact&hide_border=true&theme=default&bg_color=fcfcfc&title_color=111111&text_color=4B5563&langs_count=8"
-      width="100%"
-      alt="Top Languages"
-    />
-  </picture>
-
-  <br/><br/>
-
-  <picture>
-    <img
-      src="https://streak-stats.demolab.com?user=dhavalaMadhav&theme=default&hide_border=true&ring=2563eb&fire=2563eb&currStreakLabel=111111&sideLabels=475569&dates=6B7280"
-      width="100%"
-      alt="Contribution Summary"
-    />
-  </picture>
-
-  <br/>
-
+<p align="center">
   <strong>Total Contributions: 462</strong><br/>
   <sub>Dec 15, 2024 - Present</sub>
-
   <br/><br/>
-
   <img
     src="https://komarev.com/ghpvc/?username=dhavalaMadhav&label=Profile+Views&color=2563eb&style=flat-square"
     alt="Profile Views"
   />
-
-</div>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:bfdbfe,100:60a5fa&height=1&section=header&text=&animation=false" width="74%" alt="divider" />
@@ -237,45 +222,58 @@ I bring the same rigor to full-stack web work: clean APIs, reliable deployments,
 
 <br/>
 
-<h2 align="left">Pinned Repositories</h2>
+<h2 align="center">Pinned Repositories</h2>
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/dhavalaMadhav/aiConferencing">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=dhavalaMadhav&repo=aiConferencing&theme=default&hide_border=true&title_color=111111&icon_color=2563eb&text_color=4B5563&bg_color=fcfcfc"
+      alt="aiConferencing"
+      style="width: 49%;"
+    />
+  </a>
+  <a href="https://github.com/dhavalaMadhav/gmail-agent">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=dhavalaMadhav&repo=gmail-agent&theme=default&hide_border=true&title_color=111111&icon_color=2563eb&text_color=4B5563&bg_color=fcfcfc"
+      alt="gmail-agent"
+      style="width: 49%;"
+    />
+  </a>
+</p>
 
-  <picture>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhavalaMadhav&repo=aiConferencing&theme=default&hide_border=true&title_color=111111&icon_color=2563eb&text_color=4B5563&bg_color=fcfcfc&card_width=800" width="100%" alt="aiConferencing" />
-  </picture>
+<p align="center">
+  <a href="https://github.com/dhavalaMadhav/traffic-automation">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=dhavalaMadhav&repo=traffic-automation&theme=default&hide_border=true&title_color=111111&icon_color=2563eb&text_color=4B5563&bg_color=fcfcfc"
+      alt="traffic-automation"
+      style="width: 49%;"
+    />
+  </a>
+  <a href="https://github.com/dhavalaMadhav/unmask">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=dhavalaMadhav&repo=unmask&theme=default&hide_border=true&title_color=111111&icon_color=2563eb&text_color=4B5563&bg_color=fcfcfc"
+      alt="unmask"
+      style="width: 49%;"
+    />
+  </a>
+</p>
 
-  <br/><br/>
-
-  <picture>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhavalaMadhav&repo=gmail-agent&theme=default&hide_border=true&title_color=111111&icon_color=2563eb&text_color=4B5563&bg_color=fcfcfc&card_width=800" width="100%" alt="gmail-agent" />
-  </picture>
-
-  <br/><br/>
-
-  <picture>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhavalaMadhav&repo=traffic-automation&theme=default&hide_border=true&title_color=111111&icon_color=2563eb&text_color=4B5563&bg_color=fcfcfc&card_width=800" width="100%" alt="traffic-automation" />
-  </picture>
-
-  <br/><br/>
-
-  <picture>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhavalaMadhav&repo=unmask&theme=default&hide_border=true&title_color=111111&icon_color=2563eb&text_color=4B5563&bg_color=fcfcfc&card_width=800" width="100%" alt="unmask" />
-  </picture>
-
-  <br/><br/>
-
-  <picture>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhavalaMadhav&repo=localAiAssistant&theme=default&hide_border=true&title_color=111111&icon_color=2563eb&text_color=4B5563&bg_color=fcfcfc&card_width=800" width="100%" alt="localAiAssistant" />
-  </picture>
-
-  <br/><br/>
-
-  <picture>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhavalaMadhav&repo=halftonesystems&theme=default&hide_border=true&title_color=111111&icon_color=2563eb&text_color=4B5563&bg_color=fcfcfc&card_width=800" width="100%" alt="halftonesystems" />
-  </picture>
-
-</div>
+<p align="center">
+  <a href="https://github.com/dhavalaMadhav/localAiAssistant">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=dhavalaMadhav&repo=localAiAssistant&theme=default&hide_border=true&title_color=111111&icon_color=2563eb&text_color=4B5563&bg_color=fcfcfc"
+      alt="localAiAssistant"
+      style="width: 49%;"
+    />
+  </a>
+  <a href="https://github.com/dhavalaMadhav/halftonesystems">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=dhavalaMadhav&repo=halftonesystems&theme=default&hide_border=true&title_color=111111&icon_color=2563eb&text_color=4B5563&bg_color=fcfcfc"
+      alt="halftonesystems"
+      style="width: 49%;"
+    />
+  </a>
+</p>
 
 <br/>
 
