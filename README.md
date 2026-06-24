@@ -44,36 +44,42 @@
 
 <br/>
 
+<h2 align="center">GitHub Analytics</h2>
+
+<p align="center">
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=dhavalaMadhav&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=default&bg_color=fcfcfc&title_color=111111&icon_color=2563eb&text_color=4B5563"
+    alt="GitHub Stats"
+  />
+  <img
+    width="49%"
+    src="https://streak-stats.demolab.com?user=dhavalaMadhav&theme=default&hide_border=true&ring=2563eb&fire=2563eb&currStreakLabel=111111&sideLabels=475569&dates=6B7280"
+    alt="Contribution Summary"
+  />
+</p>
+
+<p align="center">
+  <img
+    height="280em"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=dhavalaMadhav&theme=minimal&bg_color=fcfcfc&color=4B5563&line=2563eb&point=111111&area=true&hide_border=true"
+    alt="Activity Graph"
+  />
+</p>
+
 <p align="center">
   <img
     src="https://ghchart.rshah.org/2563eb/dhavalaMadhav"
     alt="Dhavala Madhav GitHub contribution heatmap"
-    style="width: 100%;"
+    width="100%"
   />
 </p>
 
-<br/>
-
-<h2 align="center">GitHub Stats</h2>
-
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=dhavalaMadhav&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=default&bg_color=fcfcfc&title_color=111111&icon_color=2563eb&text_color=4B5563"
-    alt="GitHub Stats"
-    style="width: 49%;"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhavalaMadhav&layout=compact&hide_border=true&theme=default&bg_color=fcfcfc&title_color=111111&text_color=4B5563&langs_count=8"
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhavalaMadhav&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fcfcfc&title_color=111111&text_color=4B5563"
     alt="Top Languages"
-    style="width: 49%;"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=dhavalaMadhav&theme=default&hide_border=true&ring=2563eb&fire=2563eb&currStreakLabel=111111&sideLabels=475569&dates=6B7280"
-    alt="Contribution Summary"
-    style="width: 70%;"
   />
 </p>
 
