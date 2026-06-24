@@ -20,7 +20,7 @@
     alt="Subtitle"
   />
 
-  <br/>
+  <br/><br/>
 
   <!-- Contact Buttons -->
   <a href="https://github.com/dhavalaMadhav">
@@ -45,8 +45,7 @@
 
   <br/><br/>
 
-  <p><strong>AI Engineer &nbsp;•&nbsp; Full Stack Developer &nbsp;•&nbsp; Freelancer</strong></p>
-  <p>B.Tech Computer Science Engineering &nbsp;(CGPA 9.19)</p>
+  <p>B.Tech Computer Science Engineering &nbsp;(CGPA 9.275)</p>
   <p>Vignan's Institute of Information Technology &nbsp;·&nbsp; Visakhapatnam, Andhra Pradesh</p>
 
 </div>
@@ -60,28 +59,28 @@
 <h2 align="left">About</h2>
 
 ```python
-Madhav Dhavala
+class MadhavDhavala:
 
-name        = "DhavalaMadhav"
-location    = "Visakhapatnam, Andhra Pradesh, India"
-education   = "B.Tech CSE @ VIIT (2023–2027)  |  CGPA: 9.19 / 10"
-roles       = ["AI Engineer", "Full Stack Developer", "Freelancer", "Product Builder"]
+    name        = "DhavalaMadhav"
+    location    = "Visakhapatnam, Andhra Pradesh, India"
+    education   = "B.Tech CSE @ VIIT (2023–2027)  |  CGPA: 9.275 / 10"
+    roles       = ["AI Engineer", "Full Stack Developer", "Freelancer", "Product Builder"]
 
-focus_areas = [
-    "Retrieval-Augmented Generation (RAG)",
-    "LLM Integration & AI Automation",
-    "Production-Grade Web Applications",
-    "Semantic Search & AI Observability",
-]
+    focus_areas = [
+        "Retrieval-Augmented Generation (RAG)",
+        "LLM Integration & AI Automation",
+        "Production-Grade Web Applications",
+        "Semantic Search & AI Observability",
+    ]
 
-stack = {
-    "AI / ML"   : ["LangChain", "FastAPI", "ChromaDB", "Groq", "TensorFlow"],
-    "Web"       : ["React", "Node.js", "Express.js", "MongoDB"],
-    "Infra"     : ["Docker", "Nginx", "Vercel", "Render"],
-}
+    stack = {
+        "AI / ML"   : ["LangChain", "FastAPI", "ChromaDB", "Groq", "TensorFlow"],
+        "Web"       : ["React", "Node.js", "Express.js", "MongoDB"],
+        "Infra"     : ["Docker", "Nginx", "Vercel", "Render"],
+    }
 
-currently   = "Building AI-powered products and delivering client projects @ Vexamo"
-open_to     = ["Full-time Roles", "Internships", "AI / Full-Stack Freelance Projects"]
+    currently   = "Building AI-powered products and delivering client projects @ Vexamo"
+    open_to     = ["Full-time Roles", "Internships", "AI / Full-Stack Freelance Projects"]
 ```
 
 I engineer AI systems that move beyond demos — contextual, observable, and production-ready.  
@@ -98,7 +97,7 @@ I bring the same rigor to full-stack web work: clean APIs, reliable deployments,
 <table width="100%">
   <tr>
     <td width="48%" valign="top">
-      <h3>AI Engineer · HTS — Halftone Systems</h3>
+      <h3>AI Engineer · <a href="https://halftonesystems.com/about">Halftone Systems</a></h3>
       Designed and shipped a production-grade conversational AI assistant using RAG — real-time query handling, contextual response generation, and performance evaluation across precision, recall, and quality metrics. Managed backend AI workflows end-to-end and contributed to system monitoring.
     </td>
     <td width="4%"></td>
@@ -182,17 +181,26 @@ I bring the same rigor to full-stack web work: clean APIs, reliable deployments,
     <td width="33%" valign="top">
       <h3>RAG-Based AI System</h3>
       <p>A production-grade Retrieval-Augmented Generation platform with semantic document search, grounded LLM responses, latency monitoring, token analytics, and JSONL telemetry for AI observability.</p>
-      <img src="https://img.shields.io/badge/LangChain_%C2%B7_ChromaDB_%C2%B7_FastAPI_%C2%B7_Groq-2563EB?style=for-the-badge&logoColor=white&labelColor=2563EB" alt="RAG-Based AI System stack" />
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white&labelColor=1C3C3C" alt="LangChain" />
+      <img src="https://img.shields.io/badge/ChromaDB-1DA1F2?style=for-the-badge&logoColor=white&labelColor=1DA1F2" alt="ChromaDB" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=009688" alt="FastAPI" />
+      <img src="https://img.shields.io/badge/Groq-111111?style=for-the-badge&logoColor=white&labelColor=111111" alt="Groq" />
     </td>
     <td width="33%" valign="top">
       <h3>MailMind</h3>
       <p>AI email assistant that organizes, summarizes, and acts on emails via LLM-powered automation — connected to Gmail with full OAuth2 security and a clean React frontend.</p>
-      <img src="https://img.shields.io/badge/React_%C2%B7_OAuth2_%C2%B7_Gmail_API_%C2%B7_LLM-0F766E?style=for-the-badge&logoColor=white&labelColor=0F766E" alt="MailMind stack" />
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=20232A" alt="React" />
+      <img src="https://img.shields.io/badge/OAuth2-0F766E?style=for-the-badge&logoColor=white&labelColor=0F766E" alt="OAuth2" />
+      <img src="https://img.shields.io/badge/Gmail_API-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Gmail API" />
+      <img src="https://img.shields.io/badge/LLM_Automation-7C3AED?style=for-the-badge&logoColor=white&labelColor=7C3AED" alt="LLM Automation" />
     </td>
     <td width="33%" valign="top">
       <h3>Meeting Intelligence Platform</h3>
       <p>AI conferencing with live speech transcription, semantic search over transcripts, meeting summarization, and a RAG-driven chatbot for post-meeting Q&A.</p>
-      <img src="https://img.shields.io/badge/Speech--to--Text_%C2%B7_Semantic_Search_%C2%B7_RAG_%C2%B7_React-7C3AED?style=for-the-badge&logoColor=white&labelColor=7C3AED" alt="Meeting Intelligence Platform stack" />
+      <img src="https://img.shields.io/badge/Speech--to--Text-2563EB?style=for-the-badge&logoColor=white&labelColor=2563EB" alt="Speech-to-Text" />
+      <img src="https://img.shields.io/badge/Semantic_Search-0F766E?style=for-the-badge&logoColor=white&labelColor=0F766E" alt="Semantic Search" />
+      <img src="https://img.shields.io/badge/RAG-34495E?style=for-the-badge&logoColor=white&labelColor=34495E" alt="RAG" />
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=20232A" alt="React" />
     </td>
   </tr>
 </table>
@@ -256,6 +264,13 @@ I bring the same rigor to full-stack web work: clean APIs, reliable deployments,
   <a href="https://github.com/dhavalaMadhav/unmask">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhavalaMadhav&repo=unmask&theme=default&hide_border=true&title_color=111111&icon_color=2563eb&text_color=4B5563&bg_color=fcfcfc" alt="unmask" />
   </a>
+  <br/>
+  <a href="https://github.com/dhavalaMadhav/repository-five">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhavalaMadhav&repo=repository-five&theme=default&hide_border=true&title_color=111111&icon_color=2563eb&text_color=4B5563&bg_color=fcfcfc" alt="repository-five" />
+  </a>
+  <a href="https://github.com/dhavalaMadhav/repository-six">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhavalaMadhav&repo=repository-six&theme=default&hide_border=true&title_color=111111&icon_color=2563eb&text_color=4B5563&bg_color=fcfcfc" alt="repository-six" />
+  </a>
 </div>
 
 <br/>
@@ -307,7 +322,7 @@ I bring the same rigor to full-stack web work: clean APIs, reliable deployments,
     <td width="25%" valign="top"><strong>AI Engineering</strong><br/>Real RAG systems — production deployments with telemetry, observability, and LLM evaluation. Not tutorials.</td>
     <td width="25%" valign="top"><strong>Freelance Track Record</strong><br/>5+ delivered projects. Full lifecycle ownership from requirements to deployment.</td>
     <td width="25%" valign="top"><strong>Full Stack Depth</strong><br/>MERN stack, REST APIs, Docker, cloud deployments on Vercel and Render.</td>
-    <td width="25%" valign="top"><strong>Academic Excellence</strong><br/>9.19 CGPA at VIIT, B.Tech CSE — consistently in the top tier of the program.</td>
+    <td width="25%" valign="top"><strong>Academic Excellence</strong><br/>9.275 CGPA at VIIT, B.Tech CSE — consistently in the top tier of the program.</td>
   </tr>
   <tr>
     <td width="25%" valign="top"><strong>Modern AI Stack</strong><br/>LangChain · ChromaDB · Groq · FastAPI · Vector Embeddings · OAuth2</td>
