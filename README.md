@@ -7,9 +7,9 @@
   />
 
   <!-- Name -->
-  <h1>
+  <h1 align="center">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=52&duration=99999&pause=99999&color=111111&center=true&vCenter=true&repeat=false&width=700&height=80&lines=Hi%2C+I%27m+Madhav"
+      src="https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=52&duration=1&pause=0&color=111111&center=true&vCenter=true&repeat=false&width=700&height=80&lines=Hi%2C+I%27m+Madhav"
       alt="Hi, I'm Madhav"
     />
   </h1>
@@ -24,23 +24,23 @@
 
   <!-- Contact Buttons -->
   <a href="https://github.com/dhavalaMadhav">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="50" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" height="50" alt="GitHub" />
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/madhavdhavalasai">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="50" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" height="50" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://madhav-dhavala.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-14B8A6?style=for-the-badge&logo=vercel&logoColor=white" height="50" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-14B8A6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=14B8A6" height="50" alt="Portfolio" />
   </a>
   &nbsp;
   <a href="https://leetcode.com/u/madhavdhavala/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="50" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116" height="50" alt="LeetCode" />
   </a>
   &nbsp;
   <a href="mailto:madhavdhavala0@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="50" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" height="50" alt="Email" />
   </a>
 
   <br/><br/>
@@ -130,51 +130,52 @@ Delivered 5+ client projects for professionals and educational institutions — 
 <h2 align="left">Technical Skills</h2>
 <p align="left">﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏</p>
 
-<table width="100%" cellpadding="16" cellspacing="0" border="1">
+<table width="100%" cellspacing="0" cellpadding="14" border="0">
   <tr>
-    <td width="50%" valign="top">
-
-<h3>AI &amp; Machine Learning</h3>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logoColor=white" alt="LangChain" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" alt="Streamlit" />
-<img src="https://img.shields.io/badge/ChromaDB-1DA1F2?style=flat&logoColor=white" alt="ChromaDB" />
-<img src="https://img.shields.io/badge/Groq%20API-111111?style=flat&logoColor=white" alt="Groq API" />
-
-<br/><br/>
-
-`Machine Learning` `Deep Learning` `NLP` `Generative AI` `RAG` `Vector Embeddings`
-
+    <td width="33%" valign="top" style="border-right: 1px solid #d8d8d8;">
+      <h3>AI &amp; Machine Learning</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB" alt="Python" />
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=FF6F00" alt="TensorFlow" />
+        <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=F7931E" alt="Scikit-learn" />
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white&labelColor=1C3C3C" alt="LangChain" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=009688" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=FF4B4B" alt="Streamlit" />
+        <img src="https://img.shields.io/badge/ChromaDB-1DA1F2?style=for-the-badge&logoColor=white&labelColor=1DA1F2" alt="ChromaDB" />
+        <img src="https://img.shields.io/badge/Groq_API-111111?style=for-the-badge&logoColor=white&labelColor=111111" alt="Groq API" />
+        <img src="https://img.shields.io/badge/Machine_Learning-2F80ED?style=for-the-badge&logoColor=white&labelColor=2F80ED" alt="Machine Learning" />
+        <img src="https://img.shields.io/badge/Deep_Learning-8E44AD?style=for-the-badge&logoColor=white&labelColor=8E44AD" alt="Deep Learning" />
+        <img src="https://img.shields.io/badge/NLP-16A085?style=for-the-badge&logoColor=white&labelColor=16A085" alt="NLP" />
+        <img src="https://img.shields.io/badge/Generative_AI-D35400?style=for-the-badge&logoColor=white&labelColor=D35400" alt="Generative AI" />
+        <img src="https://img.shields.io/badge/RAG-34495E?style=for-the-badge&logoColor=white&labelColor=34495E" alt="RAG" />
+        <img src="https://img.shields.io/badge/Vector_Embeddings-0F766E?style=for-the-badge&logoColor=white&labelColor=0F766E" alt="Vector Embeddings" />
+      </p>
     </td>
 
-    <td width="50%" valign="top">
+    <td width="33%" valign="top" style="border-right: 1px solid #d8d8d8; padding-left: 18px;">
+      <h3>Full Stack Development</h3>
+      <p>
+        <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=20232A" alt="React.js" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=339933" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=000000" alt="Express.js" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=47A248" alt="MongoDB" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=00599C" alt="C" />
+        <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white&labelColor=009639" alt="Nginx" />
+      </p>
+    </td>
 
-<h3>Full Stack Development</h3>
-
-<img src="https://img.shields.io/badge/React.js-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React.js" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C" />
-<img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white" alt="Nginx" />
-
-<br/><br/>
-
-<h3>Tools &amp; Platforms</h3>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel" />
-<img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black" alt="Render" />
-<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white" alt="Google Colab" />
-
+    <td width="34%" valign="top" style="padding-left: 18px;">
+      <h3>Tools &amp; Platforms</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032" alt="Git" />
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED" alt="Docker" />
+        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=007ACC" alt="VS Code" />
+        <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" alt="Vercel" />
+        <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black&labelColor=46E3B7" alt="Render" />
+        <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white&labelColor=F9AB00" alt="Google Colab" />
+      </p>
     </td>
   </tr>
 </table>
@@ -343,23 +344,23 @@ Delivered 5+ client projects for professionals and educational institutions — 
   <p><strong>Let's build something worth shipping.</strong></p>
 
   <a href="https://github.com/dhavalaMadhav">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="50" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" height="50" alt="GitHub" />
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/madhavdhavalasai">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="50" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" height="50" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://madhav-dhavala.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-14B8A6?style=for-the-badge&logo=vercel&logoColor=white" height="50" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-14B8A6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=14B8A6" height="50" alt="Portfolio" />
   </a>
   &nbsp;
   <a href="https://leetcode.com/u/madhavdhavala/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="50" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116" height="50" alt="LeetCode" />
   </a>
   &nbsp;
   <a href="mailto:madhavdhavala0@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="50" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" height="50" alt="Email" />
   </a>
 
   <br/><br/>
