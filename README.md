@@ -1,12 +1,11 @@
 <div align="center">
 
-  <!-- Header Wave -->
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:dbeafe,50:60a5fa,100:2563eb&height=125&section=header&text=&animation=false"
     width="100%"
+    alt="header"
   />
 
-  <!-- Name -->
   <h1 align="center" style="margin: -6px 0 0 0; padding: 0; line-height: 1;">
     <img
       src="https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=52&duration=1&pause=0&color=111111&center=true&vCenter=true&repeat=false&width=700&height=72&lines=Hi%2C+I%27m+Madhav"
@@ -14,7 +13,6 @@
     />
   </h1>
 
-  <!-- Subtitle -->
   <img
     src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=21&duration=3000&pause=1400&color=425466&center=true&vCenter=true&repeat=true&width=760&height=34&lines=AI+Engineer+%E2%80%94+RAG+Systems+%26+LLM+Integration;Full+Stack+Developer+%E2%80%94+MERN+%26+FastAPI;Freelancer+%E2%80%94+5%2B+Production+Projects+Shipped;Product+Builder+%E2%80%94+From+Idea+to+Deployment"
     alt="Subtitle"
@@ -22,7 +20,6 @@
 
   <br/>
 
-  <!-- Contact Buttons -->
   <a href="https://github.com/dhavalaMadhav">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" height="50" alt="GitHub" />
   </a>
@@ -45,7 +42,6 @@
 
   <br/><br/>
 
-  <!-- Contribution Heatmap -->
   <img
     src="https://ghchart.rshah.org/2563eb/dhavalaMadhav"
     alt="Dhavala Madhav GitHub contribution heatmap"
@@ -54,42 +50,29 @@
 
   <br/><br/>
 
-  <!-- Top Analytics Row -->
-  <table width="92%" cellspacing="12" cellpadding="0" border="0">
+  <table width="92%" border="0" cellspacing="0" cellpadding="0">
     <tr>
-      <td width="68%" valign="top" align="center">
-        <table width="100%" cellspacing="0" cellpadding="8" border="0">
-          <tr>
-            <td>
-              <img
-                src="https://github-readme-stats.vercel.app/api?username=dhavalaMadhav&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=default&bg_color=fcfcfc&title_color=111111&icon_color=2563eb&text_color=4B5563"
-                height="180"
-                alt="GitHub Stats"
-              />
-            </td>
-            <td>
-              <img
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhavalaMadhav&layout=compact&hide_border=true&theme=default&bg_color=fcfcfc&title_color=111111&text_color=4B5563&langs_count=8"
-                height="180"
-                alt="Top Languages"
-              />
-            </td>
-          </tr>
-        </table>
+      <td width="72%" align="center" valign="top">
+        <img
+          src="https://github-readme-stats.vercel.app/api?username=dhavalaMadhav&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=default&bg_color=fcfcfc&title_color=111111&icon_color=2563eb&text_color=4B5563"
+          height="180"
+          alt="GitHub Stats"
+        />
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhavalaMadhav&layout=compact&hide_border=true&theme=default&bg_color=fcfcfc&title_color=111111&text_color=4B5563&langs_count=8"
+          height="180"
+          alt="Top Languages"
+        />
       </td>
-
-      <td width="32%" valign="top" align="center">
-        <table width="100%" cellspacing="0" cellpadding="18" border="0">
-          <tr>
-            <td align="center">
-              <h1 style="margin: 0; font-size: 54px; color: #111111;">462</h1>
-              <p style="margin: 8px 0 0 0; font-size: 24px; color: #374151;">Total Contributions</p>
-              <p style="margin: 10px 0 0 0; font-size: 16px; color: #6B7280;">Dec 15, 2024 - Present</p>
-              <br/>
-              <img src="https://komarev.com/ghpvc/?username=dhavalaMadhav&label=Profile+Views&color=2563eb&style=flat-square" alt="Profile Views" />
-            </td>
-          </tr>
-        </table>
+      <td width="28%" align="center" valign="middle">
+        <h1>462</h1>
+        <p><strong>Total Contributions</strong></p>
+        <p>Dec 15, 2024 - Present</p>
+        <br/>
+        <img
+          src="https://komarev.com/ghpvc/?username=dhavalaMadhav&label=Profile+Views&color=2563eb&style=flat-square"
+          alt="Profile Views"
+        />
       </td>
     </tr>
   </table>
