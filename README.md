@@ -20,7 +20,7 @@
     alt="Subtitle"
   />
 
-  <br/><br/>
+  <br/>
 
   <!-- Contact Buttons -->
   <a href="https://github.com/dhavalaMadhav">
@@ -43,7 +43,7 @@
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" height="50" alt="Email" />
   </a>
 
-  <br/><br/>
+  <br/>
 
   <p>B.Tech Computer Science Engineering &nbsp;(CGPA 9.275)</p>
   <p>Vignan's Institute of Information Technology &nbsp;·&nbsp; Visakhapatnam, Andhra Pradesh</p>
@@ -229,7 +229,7 @@ I bring the same rigor to full-stack web work: clean APIs, reliable deployments,
 
   <br/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhavalaMadhav&theme=minimal&bg_color=fcfcfc&color=475569&line=2563eb&point=111111&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+  <img src="https://ghchart.rshah.org/2563eb/dhavalaMadhav" alt="GitHub Contribution Chart" width="100%" />
 
   <br/><br/>
 
@@ -250,28 +250,42 @@ I bring the same rigor to full-stack web work: clean APIs, reliable deployments,
 
 <h2 align="left">Pinned Repositories</h2>
 
-<div align="center">
-  <a href="https://github.com/dhavalaMadhav/aiConferencing">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhavalaMadhav&repo=aiConferencing&theme=default&hide_border=true&title_color=111111&icon_color=2563eb&text_color=4B5563&bg_color=fcfcfc" alt="aiConferencing" />
-  </a>
-  <a href="https://github.com/dhavalaMadhav/gmail-agent">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhavalaMadhav&repo=gmail-agent&theme=default&hide_border=true&title_color=111111&icon_color=2563eb&text_color=4B5563&bg_color=fcfcfc" alt="gmail-agent" />
-  </a>
-  <br/>
-  <a href="https://github.com/dhavalaMadhav/traffic-automation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhavalaMadhav&repo=traffic-automation&theme=default&hide_border=true&title_color=111111&icon_color=2563eb&text_color=4B5563&bg_color=fcfcfc" alt="traffic-automation" />
-  </a>
-  <a href="https://github.com/dhavalaMadhav/unmask">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhavalaMadhav&repo=unmask&theme=default&hide_border=true&title_color=111111&icon_color=2563eb&text_color=4B5563&bg_color=fcfcfc" alt="unmask" />
-  </a>
-  <br/>
-  <a href="https://github.com/dhavalaMadhav/localAiAssistant">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhavalaMadhav&repo=localAiAssistant&theme=default&hide_border=true&title_color=111111&icon_color=2563eb&text_color=4B5563&bg_color=fcfcfc" alt="repository-five" />
-  </a>
-  <a href="https://github.com/dhavalaMadhav/halftonesystems">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhavalaMadhav&repo=halftonesystems&theme=default&hide_border=true&title_color=111111&icon_color=2563eb&text_color=4B5563&bg_color=fcfcfc" alt="repository-six" />
-  </a>
-</div>
+<table width="100%" cellspacing="12" cellpadding="8">
+  <tr>
+    <td width="33%" align="center">
+      <a href="https://github.com/dhavalaMadhav/aiConferencing">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhavalaMadhav&repo=aiConferencing&theme=default&hide_border=true&title_color=111111&icon_color=2563eb&text_color=4B5563&bg_color=fcfcfc" alt="aiConferencing" />
+      </a>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/dhavalaMadhav/gmail-agent">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhavalaMadhav&repo=gmail-agent&theme=default&hide_border=true&title_color=111111&icon_color=2563eb&text_color=4B5563&bg_color=fcfcfc" alt="gmail-agent" />
+      </a>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/dhavalaMadhav/traffic-automation">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhavalaMadhav&repo=traffic-automation&theme=default&hide_border=true&title_color=111111&icon_color=2563eb&text_color=4B5563&bg_color=fcfcfc" alt="traffic-automation" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center">
+      <a href="https://github.com/dhavalaMadhav/unmask">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhavalaMadhav&repo=unmask&theme=default&hide_border=true&title_color=111111&icon_color=2563eb&text_color=4B5563&bg_color=fcfcfc" alt="unmask" />
+      </a>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/dhavalaMadhav/localAiAssistant">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhavalaMadhav&repo=localAiAssistant&theme=default&hide_border=true&title_color=111111&icon_color=2563eb&text_color=4B5563&bg_color=fcfcfc" alt="localAiAssistant" />
+      </a>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/dhavalaMadhav/halftonesystems">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhavalaMadhav&repo=halftonesystems&theme=default&hide_border=true&title_color=111111&icon_color=2563eb&text_color=4B5563&bg_color=fcfcfc" alt="halftonesystems" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -283,26 +297,26 @@ I bring the same rigor to full-stack web work: clean APIs, reliable deployments,
 
 <h2 align="left">Achievements & Certifications</h2>
 
-<table width="100%">
+<table width="100%" cellspacing="12" cellpadding="14">
   <tr>
     <td width="50%" valign="top">
       <h3>Certifications</h3>
-      <ul>
-        <li>Python Essentials 1</li>
-        <li>Python Essentials 2</li>
-        <li>HTML</li>
-        <li>CSS</li>
-        <li>JavaScript</li>
-      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Python_Essentials_1-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Essentials 1" />
+        <img src="https://img.shields.io/badge/Python_Essentials_2-1F5D99?style=for-the-badge&logo=python&logoColor=white" alt="Python Essentials 2" />
+        <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+      </p>
     </td>
     <td width="50%" valign="top">
       <h3>Recognition</h3>
-      <ul>
-        <li>National-level Hackathons — Top Performer</li>
-        <li>Build Bharat through AI — Participant</li>
-        <li>SuperSus Hackathon — Finalist</li>
-        <li>Competitive Innovation Events — Multiple Top Placements</li>
-      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/National--level_Hackathons-Top_Performer-2563eb?style=for-the-badge" alt="National-level Hackathons" />
+        <img src="https://img.shields.io/badge/Build_Bharat_through_AI-Participant-0f766e?style=for-the-badge" alt="Build Bharat through AI" />
+        <img src="https://img.shields.io/badge/SuperSus_Hackathon-Finalist-7c3aed?style=for-the-badge" alt="SuperSus Hackathon" />
+        <img src="https://img.shields.io/badge/Innovation_Events-Multiple_Top_Placements-f59e0b?style=for-the-badge" alt="Innovation Events" />
+      </p>
     </td>
   </tr>
 </table>
@@ -317,18 +331,42 @@ I bring the same rigor to full-stack web work: clean APIs, reliable deployments,
 
 <h2 align="left">Why Recruiters Should Consider Me</h2>
 
-<table width="100%">
+<table width="100%" cellspacing="12" cellpadding="16">
   <tr>
-    <td width="25%" valign="top"><strong>AI Engineering</strong><br/>Real RAG systems — production deployments with telemetry, observability, and LLM evaluation. Not tutorials.</td>
-    <td width="25%" valign="top"><strong>Freelance Track Record</strong><br/>5+ delivered projects. Full lifecycle ownership from requirements to deployment.</td>
-    <td width="25%" valign="top"><strong>Full Stack Depth</strong><br/>MERN stack, REST APIs, Docker, cloud deployments on Vercel and Render.</td>
-    <td width="25%" valign="top"><strong>Academic Excellence</strong><br/>9.275 CGPA at VIIT, B.Tech CSE — consistently in the top tier of the program.</td>
+    <td width="25%" valign="top">
+      <strong>AI Engineering</strong><br/><br/>
+      Real RAG systems — production deployments with telemetry, observability, and LLM evaluation. Not tutorials.
+    </td>
+    <td width="25%" valign="top">
+      <strong>Freelance Track Record</strong><br/><br/>
+      5+ delivered projects. Full lifecycle ownership from requirements to deployment.
+    </td>
+    <td width="25%" valign="top">
+      <strong>Full Stack Depth</strong><br/><br/>
+      MERN stack, REST APIs, Docker, cloud deployments on Vercel and Render.
+    </td>
+    <td width="25%" valign="top">
+      <strong>Academic Excellence</strong><br/><br/>
+      9.275 CGPA at VIIT, B.Tech CSE — consistently in the top tier of the program.
+    </td>
   </tr>
   <tr>
-    <td width="25%" valign="top"><strong>Modern AI Stack</strong><br/>LangChain · ChromaDB · Groq · FastAPI · Vector Embeddings · OAuth2</td>
-    <td width="25%" valign="top"><strong>Real Client Work</strong><br/>Delivered for professionals and educational institutions with measurable impact.</td>
-    <td width="25%" valign="top"><strong>Ships to Production</strong><br/>Every project is deployed — not a portfolio screenshot, a live URL.</td>
-    <td width="25%" valign="top"><strong>Product Mindset</strong><br/>Thinks in user outcomes, not just code. Builds things people actually use.</td>
+    <td width="25%" valign="top">
+      <strong>Modern AI Stack</strong><br/><br/>
+      LangChain · ChromaDB · Groq · FastAPI · Vector Embeddings · OAuth2
+    </td>
+    <td width="25%" valign="top">
+      <strong>Real Client Work</strong><br/><br/>
+      Delivered for professionals and educational institutions with measurable impact.
+    </td>
+    <td width="25%" valign="top">
+      <strong>Ships to Production</strong><br/><br/>
+      Every project is deployed — not a portfolio screenshot, a live URL.
+    </td>
+    <td width="25%" valign="top">
+      <strong>Product Mindset</strong><br/><br/>
+      Thinks in user outcomes, not just code. Builds things people actually use.
+    </td>
   </tr>
 </table>
 
