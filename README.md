@@ -52,7 +52,7 @@
 
   <table width="96%" border="0" cellspacing="0" cellpadding="0">
     <tr>
-      <td width="72%" align="center" valign="middle">
+      <td width="70%" align="center" valign="middle">
         <img
           src="https://github-readme-stats.vercel.app/api?username=dhavalaMadhav&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=default&bg_color=fcfcfc&title_color=111111&icon_color=2563eb&text_color=4B5563"
           height="200"
@@ -64,12 +64,16 @@
           alt="Top Languages"
         />
       </td>
-      <td width="28%" align="center" valign="middle">
-        <p style="margin: 0; font-size: 72px; line-height: 1; color: #2563eb;">◉</p>
-        <h1 style="margin: -52px 0 0 0; font-size: 42px; color: #111111;">462</h1>
-        <p style="margin: 28px 0 0 0; font-size: 24px;"><strong>Total Contributions</strong></p>
-        <p style="margin: 8px 0 0 0; font-size: 17px; color: #6B7280;">Dec 15, 2024 - Present</p>
+      <td width="30%" align="center" valign="middle">
+        <img
+          src="https://streak-stats.demolab.com?user=dhavalaMadhav&theme=default&hide_border=true&ring=2563eb&fire=2563eb&currStreakLabel=111111&sideLabels=475569&dates=6B7280"
+          height="200"
+          alt="Contribution Summary"
+        />
         <br/>
+        <strong>Total Contributions: 462</strong><br/>
+        <sub>Dec 15, 2024 - Present</sub>
+        <br/><br/>
         <img
           src="https://komarev.com/ghpvc/?username=dhavalaMadhav&label=Profile+Views&color=2563eb&style=flat-square"
           alt="Profile Views"
