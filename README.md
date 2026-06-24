@@ -1,58 +1,80 @@
+<!--
+  ╔══════════════════════════════════════════════════════════╗
+  ║        Dhavala Sai Madhav — GitHub Profile README       ║
+  ║        Design: Linear × Vercel × Anthropic              ║
+  ╚══════════════════════════════════════════════════════════╝
+-->
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━  GLOBAL STYLES  ━━━━━━━━━━━━━━━━━━━━━━ -->
+
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        HERO SECTION                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- Premium hero card -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:1a1a1a&height=3&section=header&text=&animation=false" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:f8f9fa,100:f1f3f5&height=3&section=header&text=&animation=false" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:1a1a1a&height=3&section=header&text=&animation=false" width="100%" />
+</picture>
+
+<br/><br/>
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━  HERO SECTION  ━━━━━━━━━━━━━━━━━━━━━━ -->
+
+<h1 align="center" style="font-family: 'Georgia', 'Charter', serif; font-weight: 700; font-size: 3rem; letter-spacing: -0.03em; color: #111111; margin: 0;">Hi, I'm Madhav</h1>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header&text=&animation=fadeIn" width="100%"/>
+<!-- Animated subtitle — smooth fade via readme-typing-svg, no cursor, no typewriter -->
+<img
+  src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=17&duration=3000&pause=1200&color=4A5568&center=true&vCenter=true&multiline=false&width=600&lines=AI+Engineer+%E2%80%94+RAG+Systems+%26+LLM+Integration;Full+Stack+Developer+%E2%80%94+MERN+%26+FastAPI;Freelancer+%E2%80%94+5%2B+Production+Projects+Shipped;Product+Builder+%E2%80%94+From+Idea+to+Deployment"
+  alt="Subtitle"
+/>
 
-<br/>
+<br/><br/>
 
-<h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=36&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Dhavala+Sai+Madhav" alt="Name" />
-</h1>
+<!-- Location pill -->
+<img src="https://img.shields.io/badge/Visakhapatnam%2C%20India-%23111111?style=flat-square&logo=googlemaps&logoColor=%230EA5E9&labelColor=f4f4f5" />
+&nbsp;
+<img src="https://img.shields.io/badge/B.Tech%20CSE%20%40%20VIIT%20%7C%20CGPA%3A%209.19-%23111111?style=flat-square&logo=mortarboard&logoColor=%230EA5E9&labelColor=f4f4f5" />
+&nbsp;
+<img src="https://img.shields.io/badge/Open%20to%20Work-%230EA5E9?style=flat-square&logoColor=white" />
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&pause=2000&color=94A3B8&center=true&vCenter=true&width=700&lines=AI+Engineer+%E2%80%A2+Full+Stack+Developer+%E2%80%A2+Product+Builder;RAG+Systems+%E2%80%A2+MERN+Stack+%E2%80%A2+Freelancer;Building+AI-Powered+Products+for+the+Real+World" alt="Subtitle" />
-</p>
+<br/><br/>
 
-<br/>
+<!-- ── Social Links ── -->
 
-<!-- Social Buttons -->
-<p>
-  <a href="https://github.com/madhavdhavalasai" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%230D1117.svg?style=for-the-badge&logo=github&logoColor=white" />
-  </a>&nbsp;
-  <a href="https://linkedin.com/in/madhavdhavalasai" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;
-  <a href="https://madhavdhavalasai.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%237C3AED.svg?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>&nbsp;
-  <a href="https://leetcode.com/madhavdhavalasai" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>&nbsp;
-  <a href="#certifications">
-    <img src="https://img.shields.io/badge/Certifications-%2310B981.svg?style=for-the-badge&logo=checkmarx&logoColor=white" />
-  </a>
-</p>
+<a href="https://github.com/madhavdhavalasai">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white" height="30"/>
+</a>
+&ensp;
+<a href="https://linkedin.com/in/madhavdhavalasai">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="30"/>
+</a>
+&ensp;
+<a href="https://madhavdhavalasai.dev">
+  <img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white" height="30"/>
+</a>
+&ensp;
+<a href="https://leetcode.com/madhavdhavalasai">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" height="30"/>
+</a>
+&ensp;
+<a href="mailto:madhavdhavalasai@gmail.com">
+  <img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white" height="30"/>
+</a>
 
-<br/>
-
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/><br/>
 
 </div>
 
+<!-- ─────────────────────────── thin rule ─────────────────────────── -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%" />
+
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       ABOUT SECTION                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━  ABOUT  ━━━━━━━━━━━━━━━━━━━━━━ -->
 
-## `$ whoami`
+## About
 
 ```python
 class MadhavAIEngineer:
@@ -76,228 +98,206 @@ class MadhavAIEngineer:
     }
 
     currently   = "Building AI-powered products and delivering client projects @ Vexamo"
-    open_to     = ["Full-time Roles", "Internships", "AI/Full-Stack Freelance Projects"]
+    open_to     = ["Full-time Roles", "Internships", "AI / Full-Stack Freelance Projects"]
 ```
 
-> *I engineer AI systems that move beyond demos — contextual, observable, and production-ready. I bring the same rigor to full-stack web work: clean APIs, reliable deployments, real users.*
+> I engineer AI systems that move beyond demos — contextual, observable, and production-ready.  
+> I bring the same rigor to full-stack web work: clean APIs, reliable deployments, real users.
 
 <br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%" />
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     EXPERIENCE SECTION                        -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━  EXPERIENCE  ━━━━━━━━━━━━━━━━━━━━━━ -->
 
-## 💼 Professional Experience
+## Professional Experience
 
-<table width="100%">
+<table width="100%" cellspacing="0" cellpadding="0">
 <tr>
-<td width="50%" valign="top">
+<td width="48%" valign="top">
 
-### 🤖 AI Engineer
-**HTS — Halftone Systems**
-`Feb 2026 – May 2026` &nbsp;|&nbsp; `Hybrid`
+<br/>
 
-- Engineered an NLP-driven conversational AI assistant using **RAG** architecture
-- Built real-time query pipelines with contextual, grounded response generation
-- Designed and monitored backend AI workflows end-to-end
-- Evaluated model outputs using precision, recall, and response quality metrics
-- Contributed to system optimization and production-level AI monitoring
+**AI Engineer &nbsp;·&nbsp; HTS — Halftone Systems**
+
+![Tenure](https://img.shields.io/badge/Feb%202026%20–%20May%202026-f4f4f5?style=flat-square&logoColor=%23111)
+&nbsp;
+![Mode](https://img.shields.io/badge/Hybrid-f4f4f5?style=flat-square&logoColor=%23111)
+
+Designed and shipped a production-grade conversational AI assistant using RAG — with real-time query handling, contextual response generation, and performance evaluation across precision, recall, and quality metrics. Managed backend AI workflows end-to-end and contributed to system monitoring.
 
 </td>
-<td width="50%" valign="top">
+<td width="4%"></td>
+<td width="48%" valign="top">
 
-### 🚀 Full Stack Freelancer
-**Vexamo** &nbsp;[![Active](https://img.shields.io/badge/ACTIVE-10B981?style=flat-square&logoColor=white)]()
-`Aug 2025 – Present` &nbsp;|&nbsp; `Remote`
+<br/>
 
-- Delivered **5+ client projects** across education and professional verticals
-- Built responsive, production-deployed full-stack applications
-- Developed custom dashboards and workflow automation tools
-- Managed complete project lifecycle — requirements → design → deployment
-- Partnered with professionals and institutions to ship real software solutions
+**Full Stack Freelancer &nbsp;·&nbsp; Vexamo** &nbsp; ![Active](https://img.shields.io/badge/ACTIVE-0EA5E9?style=flat-square&logoColor=white)
+
+![Tenure](https://img.shields.io/badge/Aug%202025%20–%20Present-f4f4f5?style=flat-square)
+&nbsp;
+![Mode](https://img.shields.io/badge/Remote-f4f4f5?style=flat-square)
+
+Delivered **5+ client projects** for professionals and educational institutions — responsive full-stack applications, custom dashboards, and workflow automation tools. Managed the complete project lifecycle from requirements through deployment. Every project ships to production.
 
 </td>
 </tr>
 </table>
 
 <br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%" />
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      SKILLS SECTION                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━  SKILLS  ━━━━━━━━━━━━━━━━━━━━━━ -->
 
-## 🛠 Technical Skills
+## Technical Skills
 
 <table width="100%">
-
 <tr>
 <td width="50%" valign="top">
 
-**AI / Machine Learning**
+**AI & Machine Learning**
 
-![ML](https://img.shields.io/badge/Machine_Learning-0EA5E9?style=flat-square&logo=scikitlearn&logoColor=white)
-![DL](https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-8B5CF6?style=flat-square&logo=openai&logoColor=white)
-![GenAI](https://img.shields.io/badge/Generative_AI-10B981?style=flat-square&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-7C3AED?style=flat-square&logo=databricks&logoColor=white)
+![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=0EA5E9)
+![LangChain](https://img.shields.io/badge/LangChain-111111?style=flat-square&logo=chainlink&logoColor=0EA5E9)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-111111?style=flat-square&logo=tensorflow&logoColor=0EA5E9)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-111111?style=flat-square&logo=scikitlearn&logoColor=0EA5E9)
+![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=flat-square&logo=fastapi&logoColor=0EA5E9)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-111111?style=flat-square&logoColor=0EA5E9)
+![Groq](https://img.shields.io/badge/Groq%20API-111111?style=flat-square&logoColor=0EA5E9)
+![Streamlit](https://img.shields.io/badge/Streamlit-111111?style=flat-square&logo=streamlit&logoColor=0EA5E9)
 
-**Frameworks & Libraries**
-
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=chainlink&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-
-**Programming Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+`Machine Learning` `Deep Learning` `NLP` `Generative AI` `RAG` `Vector Embeddings`
 
 </td>
 <td width="50%" valign="top">
 
-**Web Development**
+**Full Stack Development**
 
-![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![React](https://img.shields.io/badge/React.js-111111?style=flat-square&logo=react&logoColor=0EA5E9)
+![Node](https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=nodedotjs&logoColor=0EA5E9)
+![Express](https://img.shields.io/badge/Express.js-111111?style=flat-square&logo=express&logoColor=0EA5E9)
+![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=flat-square&logo=mongodb&logoColor=0EA5E9)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=0EA5E9)
+![Nginx](https://img.shields.io/badge/Nginx-111111?style=flat-square&logo=nginx&logoColor=0EA5E9)
 
 **Tools & Platforms**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=0EA5E9)
+![Docker](https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=0EA5E9)
+![Vercel](https://img.shields.io/badge/Vercel-111111?style=flat-square&logo=vercel&logoColor=0EA5E9)
+![Render](https://img.shields.io/badge/Render-111111?style=flat-square&logo=render&logoColor=0EA5E9)
+![VS Code](https://img.shields.io/badge/VS%20Code-111111?style=flat-square&logo=visualstudiocode&logoColor=0EA5E9)
+![Colab](https://img.shields.io/badge/Google%20Colab-111111?style=flat-square&logo=googlecolab&logoColor=0EA5E9)
 
 </td>
 </tr>
 </table>
 
 <br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%" />
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    FEATURED PROJECTS                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━  PROJECTS  ━━━━━━━━━━━━━━━━━━━━━━ -->
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table width="100%">
-
 <tr>
+
 <td width="33%" valign="top">
 
-### 🔍 RAG-Based AI System
+**RAG-Based AI System**
 
-A production-grade Retrieval-Augmented Generation platform with semantic document search, grounded LLM response generation, latency monitoring, token analytics, and JSONL telemetry for AI observability.
+A production-grade Retrieval-Augmented Generation platform with semantic document search, grounded LLM responses, latency monitoring, token analytics, and JSONL telemetry for AI observability.
 
-**Stack:**
-
-![LangChain](https://img.shields.io/badge/LangChain-000?style=flat-square&logo=chainlink&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-7C3AED?style=flat-square)
-![Groq](https://img.shields.io/badge/Groq_API-F97316?style=flat-square)
-![Embeddings](https://img.shields.io/badge/Vector_Embeddings-0EA5E9?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-111111?style=flat-square&logo=chainlink&logoColor=0EA5E9)
+![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=flat-square&logo=fastapi&logoColor=0EA5E9)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-111111?style=flat-square&logoColor=0EA5E9)
+![Groq](https://img.shields.io/badge/Groq-111111?style=flat-square&logoColor=0EA5E9)
 
 </td>
+
 <td width="33%" valign="top">
 
-### 📧 MailMind
+**MailMind**
 
-An AI email assistant that organizes, summarizes, and acts on emails via LLM-powered automation — connected to Gmail with full OAuth2 security.
+AI email assistant that organizes, summarizes, and acts on emails via LLM-powered automation — connected to Gmail with full OAuth2 security and a clean React frontend.
 
-**Stack:**
-
-![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq_API-F97316?style=flat-square)
-![Gmail](https://img.shields.io/badge/Gmail_API-EA4335?style=flat-square&logo=gmail&logoColor=white)
-![OAuth2](https://img.shields.io/badge/OAuth2-4285F4?style=flat-square&logo=google&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![React](https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=0EA5E9)
+![Node](https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=nodedotjs&logoColor=0EA5E9)
+![Gmail API](https://img.shields.io/badge/Gmail%20API-111111?style=flat-square&logo=gmail&logoColor=0EA5E9)
+![OAuth2](https://img.shields.io/badge/OAuth2-111111?style=flat-square&logo=google&logoColor=0EA5E9)
+![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=flat-square&logo=mongodb&logoColor=0EA5E9)
 
 </td>
+
 <td width="33%" valign="top">
 
-### 🎙 Meeting Intelligence Platform
+**Meeting Intelligence Platform**
 
-AI-powered conferencing with live speech transcription, semantic search over transcripts, meeting summarization, and a RAG-driven chatbot for post-meeting Q&A.
+AI conferencing with live speech transcription, semantic search over transcripts, meeting summarization, and a RAG-driven chatbot for post-meeting Q&A.
 
-**Stack:**
-
-![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000?style=flat-square&logo=chainlink&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-7C3AED?style=flat-square)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![React](https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=0EA5E9)
+![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=flat-square&logo=fastapi&logoColor=0EA5E9)
+![LangChain](https://img.shields.io/badge/LangChain-111111?style=flat-square&logo=chainlink&logoColor=0EA5E9)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-111111?style=flat-square&logoColor=0EA5E9)
+![JWT](https://img.shields.io/badge/JWT-111111?style=flat-square&logo=jsonwebtokens&logoColor=0EA5E9)
 
 </td>
+
 </tr>
-
 </table>
 
 <br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%" />
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    GITHUB ANALYTICS                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━  GITHUB ANALYTICS  ━━━━━━━━━━━━━━━━━━━━━━ -->
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
-<table>
+<table cellspacing="0" cellpadding="6">
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=madhavdhavalasai&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=94a3b8" />
+<img
+  src="https://github-readme-stats.vercel.app/api?username=madhavdhavalasai&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=fafafa&title_color=111111&icon_color=0EA5E9&text_color=4A5568&ring_color=0EA5E9"
+  height="170"
+/>
 </td>
 <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhavdhavalasai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=94a3b8&langs_count=8" />
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhavdhavalasai&layout=compact&hide_border=true&bg_color=fafafa&title_color=111111&text_color=4A5568&langs_count=8"
+  height="170"
+/>
 </td>
 </tr>
 </table>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=madhavdhavalasai&bg_color=0d1117&color=a78bfa&line=7c3aed&point=a78bfa&area=true&hide_border=true" width="100%"/>
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=madhavdhavalasai&bg_color=fafafa&color=4A5568&line=0EA5E9&point=111111&area=true&area_color=0EA5E9&hide_border=true"
+  width="100%"
+/>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=madhavdhavalasai&label=Profile+Views&color=111111&style=flat-square" />
 
 </div>
 
 <br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%" />
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                  CERTIFICATIONS & ACHIEVEMENTS                -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━  CERTIFICATIONS  ━━━━━━━━━━━━━━━━━━━━━━ -->
 
 <a name="certifications"></a>
 
-## 🏆 Achievements & Certifications
+## Achievements & Certifications
 
 <table width="100%">
 <tr>
@@ -305,89 +305,95 @@ AI-powered conferencing with live speech transcription, semantic search over tra
 
 **Certifications**
 
-| Certificate | Issuer |
-|-------------|--------|
-| Python Essentials 1 | ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) |
-| Python Essentials 2 | ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) |
-| HTML | ![SoloLearn](https://img.shields.io/badge/SoloLearn-149EF2?style=flat-square) |
-| CSS | ![SoloLearn](https://img.shields.io/badge/SoloLearn-149EF2?style=flat-square) |
-| JavaScript | ![SoloLearn](https://img.shields.io/badge/SoloLearn-149EF2?style=flat-square) |
+| Credential | Issuer |
+|---|---|
+| Python Essentials 1 | ![Cisco](https://img.shields.io/badge/Cisco-111111?style=flat-square&logo=cisco&logoColor=0EA5E9) |
+| Python Essentials 2 | ![Cisco](https://img.shields.io/badge/Cisco-111111?style=flat-square&logo=cisco&logoColor=0EA5E9) |
+| HTML | ![SoloLearn](https://img.shields.io/badge/SoloLearn-111111?style=flat-square&logoColor=0EA5E9) |
+| CSS | ![SoloLearn](https://img.shields.io/badge/SoloLearn-111111?style=flat-square&logoColor=0EA5E9) |
+| JavaScript | ![SoloLearn](https://img.shields.io/badge/SoloLearn-111111?style=flat-square&logoColor=0EA5E9) |
 
 </td>
 <td width="50%" valign="top">
 
-**Hackathons & Recognition**
+**Recognition**
 
-- 🥇 Top performer at **national-level hackathons**
-- 🇮🇳 **Build Bharat through AI** — participant
-- 🏁 **SuperSus Hackathon** — finalist
-- 🏆 Multiple top placements in competitive innovation challenges
+| Event | Result |
+|---|---|
+| National-level Hackathons | Top Performer |
+| Build Bharat through AI | Participant |
+| SuperSus Hackathon | Finalist |
+| Competitive Innovation Events | Multiple Top Placements |
 
 </td>
 </tr>
 </table>
 
 <br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%" />
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   RECRUITER HIGHLIGHTS                        -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━  RECRUITER SECTION  ━━━━━━━━━━━━━━━━━━━━━━ -->
 
-## 🎯 Why Recruiters Should Consider Me
+## Why Recruiters Should Consider Me
 
 <table width="100%">
 <tr>
-<td align="center" width="25%">
+<td width="25%" valign="top">
 
-**🤖 AI Engineering**
-Real RAG systems. Not tutorials — production deployments with telemetry, observability, and LLM evaluation.
+**AI Engineering**
+
+Real RAG systems — production deployments with telemetry, observability, and LLM evaluation. Not tutorials.
 
 </td>
-<td align="center" width="25%">
+<td width="25%" valign="top">
 
-**💼 Freelance Track Record**
+**Freelance Track Record**
+
 5+ delivered projects. Full lifecycle ownership from requirements to deployment.
 
 </td>
-<td align="center" width="25%">
+<td width="25%" valign="top">
 
-**🧱 Full Stack Depth**
+**Full Stack Depth**
+
 MERN stack, REST APIs, Docker, cloud deployments on Vercel and Render.
 
 </td>
-<td align="center" width="25%">
+<td width="25%" valign="top">
 
-**🎓 Academic Excellence**
+**Academic Excellence**
+
 9.19 CGPA at VIIT, B.Tech CSE — consistently in the top tier of the program.
 
 </td>
 </tr>
 <tr>
-<td align="center" width="25%">
+<td width="25%" valign="top">
 
-**⚡ Modern AI Stack**
-LangChain · ChromaDB · Groq · FastAPI · Vector Embeddings · JWT · OAuth2
+**Modern AI Stack**
+
+LangChain · ChromaDB · Groq · FastAPI · Vector Embeddings · OAuth2
 
 </td>
-<td align="center" width="25%">
+<td width="25%" valign="top">
 
-**👥 Real Client Work**
+**Real Client Work**
+
 Delivered for professionals and educational institutions with measurable impact.
 
 </td>
-<td align="center" width="25%">
+<td width="25%" valign="top">
 
-**🚢 Ships to Production**
+**Ships to Production**
+
 Every project is deployed — not a portfolio screenshot, a live URL.
 
 </td>
-<td align="center" width="25%">
+<td width="25%" valign="top">
 
-**🔮 Product Mindset**
+**Product Mindset**
+
 Thinks in user outcomes, not just code. Builds things people actually use.
 
 </td>
@@ -395,14 +401,10 @@ Thinks in user outcomes, not just code. Builds things people actually use.
 </table>
 
 <br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%" />
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        FOOTER                                 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━  FOOTER  ━━━━━━━━━━━━━━━━━━━━━━ -->
 
 <div align="center">
 
@@ -412,28 +414,30 @@ Thinks in user outcomes, not just code. Builds things people actually use.
 
 <br/>
 
-<a href="https://github.com/madhavdhavalasai" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-%230D1117.svg?style=for-the-badge&logo=github&logoColor=white" />
-</a>&nbsp;
-<a href="https://linkedin.com/in/madhavdhavalasai" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>&nbsp;
-<a href="https://madhavdhavalasai.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-%237C3AED.svg?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>&nbsp;
-<a href="https://leetcode.com/madhavdhavalasai" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>&nbsp;
-<a href="mailto:madhavdhavalasai@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://github.com/madhavdhavalasai">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white" height="26"/>
+</a>
+&ensp;
+<a href="https://linkedin.com/in/madhavdhavalasai">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="26"/>
+</a>
+&ensp;
+<a href="https://madhavdhavalasai.dev">
+  <img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white" height="26"/>
+</a>
+&ensp;
+<a href="https://leetcode.com/madhavdhavalasai">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" height="26"/>
+</a>
+&ensp;
+<a href="mailto:madhavdhavalasai@gmail.com">
+  <img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white" height="26"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=madhavdhavalasai&label=Profile+Views&color=7c3aed&style=flat-square" />
+<sub>Dhavala Sai Madhav &nbsp;·&nbsp; Visakhapatnam, India &nbsp;·&nbsp; B.Tech CSE 2027</sub>
 
 <br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
 
 </div>
