@@ -265,11 +265,11 @@ I bring the same rigor to full-stack web work: clean APIs, reliable deployments,
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhavalaMadhav&repo=unmask&theme=default&hide_border=true&title_color=111111&icon_color=2563eb&text_color=4B5563&bg_color=fcfcfc" alt="unmask" />
   </a>
   <br/>
-  <a href="https://github.com/dhavalaMadhav/repository-five">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhavalaMadhav&repo=repository-five&theme=default&hide_border=true&title_color=111111&icon_color=2563eb&text_color=4B5563&bg_color=fcfcfc" alt="repository-five" />
+  <a href="https://github.com/dhavalaMadhav/localAiAssistant">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhavalaMadhav&repo=localAiAssistant&theme=default&hide_border=true&title_color=111111&icon_color=2563eb&text_color=4B5563&bg_color=fcfcfc" alt="repository-five" />
   </a>
-  <a href="https://github.com/dhavalaMadhav/repository-six">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhavalaMadhav&repo=repository-six&theme=default&hide_border=true&title_color=111111&icon_color=2563eb&text_color=4B5563&bg_color=fcfcfc" alt="repository-six" />
+  <a href="https://github.com/dhavalaMadhav/halftonesystems">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhavalaMadhav&repo=halftonesystems&theme=default&hide_border=true&title_color=111111&icon_color=2563eb&text_color=4B5563&bg_color=fcfcfc" alt="repository-six" />
   </a>
 </div>
 
