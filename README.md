@@ -2,12 +2,12 @@
 
   <!-- Header Wave -->
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:f7f7f7,50:e8e8e8,100:d6d6d6&height=190&section=header&text=&animation=false"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:f7f7f7,50:e8e8e8,100:d6d6d6&height=145&section=header&text=&animation=false"
     width="100%"
   />
 
   <!-- Name -->
-  <h1 style="margin: 0; padding: 0; line-height: 1.02;">
+  <h1 style="margin: -18px 0 0 0; padding: 0; line-height: 1.02;">
     <span style="font-family: Georgia, 'Times New Roman', serif; font-size: 84px; font-weight: 900; color: #101010; letter-spacing: 0.4px;">
       Hi, I'm DhavalaMadhav
     </span>
@@ -59,12 +59,15 @@
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:dadada,100:dadada&height=2&section=header&text=&animation=false" width="80%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:d8d8d8,100:d8d8d8&height=1&section=header&text=&animation=false" width="74%" />
 </p>
 
 <br/>
 
-## About
+<div align="center">
+  <h2 style="font-family: Georgia, 'Times New Roman', serif; color: #111111; margin-bottom: 4px;">About</h2>
+  <img src="https://svgur.com/i/15kA.svg" width="140" height="14" alt="curved underline" />
+</div>
 
 ```python
 class MadhavAIEngineer:
@@ -97,12 +100,15 @@ I bring the same rigor to full-stack web work: clean APIs, reliable deployments,
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:dadada,100:dadada&height=2&section=header&text=&animation=false" width="80%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:d8d8d8,100:d8d8d8&height=1&section=header&text=&animation=false" width="74%" />
 </p>
 
 <br/>
 
-## Professional Experience
+<div align="center">
+  <h2 style="font-family: Georgia, 'Times New Roman', serif; color: #111111; margin-bottom: 4px;">Professional Experience</h2>
+  <img src="https://svgur.com/i/15kA.svg" width="250" height="14" alt="curved underline" />
+</div>
 
 <table width="100%" cellspacing="0" cellpadding="0">
   <tr>
@@ -127,16 +133,23 @@ Delivered 5+ client projects for professionals and educational institutions — 
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:dadada,100:dadada&height=2&section=header&text=&animation=false" width="80%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:d8d8d8,100:d8d8d8&height=1&section=header&text=&animation=false" width="74%" />
 </p>
 
 <br/>
 
-## Technical Skills
+<div align="center">
+  <h2 style="font-family: Georgia, 'Times New Roman', serif; color: #111111; margin-bottom: 4px;">Technical Skills</h2>
+  <img src="https://svgur.com/i/15kA.svg" width="190" height="14" alt="curved underline" />
+</div>
 
 <div align="center">
 
-### AI & Machine Learning
+<p style="font-family: Georgia, 'Times New Roman', serif; font-size: 18px; color: #222222; margin: 8px 0 16px 0;">
+  <strong>AI &amp; Machine Learning</strong> &nbsp;&nbsp;│&nbsp;&nbsp;
+  <strong>Full Stack Development</strong> &nbsp;&nbsp;│&nbsp;&nbsp;
+  <strong>Tools &amp; Platforms</strong>
+</p>
 
 <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white&color=0F172A" height="38" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="38" />
@@ -145,22 +158,11 @@ Delivered 5+ client projects for professionals and educational institutions — 
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="38" />
 <img src="https://img.shields.io/badge/RAG-2563EB?style=for-the-badge&logoColor=white" height="38" />
 <img src="https://img.shields.io/badge/Vector%20Embeddings-0F766E?style=for-the-badge&logoColor=white" height="38" />
-
-<br/><br/>
-
-### Full Stack Development
-
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="38" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="38" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="38" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="38" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="38" />
 <img src="https://img.shields.io/badge/REST%20APIs-0284C7?style=for-the-badge&logoColor=white" height="38" />
-
-<br/><br/>
-
-### Tools & Platforms
-
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="38" />
 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" height="38" />
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="38" />
@@ -173,12 +175,15 @@ Delivered 5+ client projects for professionals and educational institutions — 
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:dadada,100:dadada&height=2&section=header&text=&animation=false" width="80%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:d8d8d8,100:d8d8d8&height=1&section=header&text=&animation=false" width="74%" />
 </p>
 
 <br/>
 
-## Featured Projects
+<div align="center">
+  <h2 style="font-family: Georgia, 'Times New Roman', serif; color: #111111; margin-bottom: 4px;">Featured Projects</h2>
+  <img src="https://svgur.com/i/15kA.svg" width="185" height="14" alt="curved underline" />
+</div>
 
 <table width="100%">
   <tr>
@@ -209,12 +214,15 @@ AI conferencing with live speech transcription, semantic search over transcripts
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:dadada,100:dadada&height=2&section=header&text=&animation=false" width="80%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:d8d8d8,100:d8d8d8&height=1&section=header&text=&animation=false" width="74%" />
 </p>
 
 <br/>
 
-## GitHub Analytics
+<div align="center">
+  <h2 style="font-family: Georgia, 'Times New Roman', serif; color: #111111; margin-bottom: 4px;">GitHub Analytics</h2>
+  <img src="https://svgur.com/i/15kA.svg" width="180" height="14" alt="curved underline" />
+</div>
 
 <div align="center">
   <table cellspacing="0" cellpadding="8" border="0">
@@ -244,12 +252,15 @@ AI conferencing with live speech transcription, semantic search over transcripts
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:dadada,100:dadada&height=2&section=header&text=&animation=false" width="80%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:d8d8d8,100:d8d8d8&height=1&section=header&text=&animation=false" width="74%" />
 </p>
 
 <br/>
 
-## Pinned Repositories
+<div align="center">
+  <h2 style="font-family: Georgia, 'Times New Roman', serif; color: #111111; margin-bottom: 4px;">Pinned Repositories</h2>
+  <img src="https://svgur.com/i/15kA.svg" width="205" height="14" alt="curved underline" />
+</div>
 
 <div align="center">
   <a href="https://github.com/dhavalaMadhav/aiConferencing">
@@ -270,14 +281,15 @@ AI conferencing with live speech transcription, semantic search over transcripts
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:dadada,100:dadada&height=2&section=header&text=&animation=false" width="80%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:d8d8d8,100:d8d8d8&height=1&section=header&text=&animation=false" width="74%" />
 </p>
 
 <br/>
 
-<a name="certifications"></a>
-
-## Achievements & Certifications
+<div align="center">
+  <h2 style="font-family: Georgia, 'Times New Roman', serif; color: #111111; margin-bottom: 4px;">Achievements & Certifications</h2>
+  <img src="https://svgur.com/i/15kA.svg" width="275" height="14" alt="curved underline" />
+</div>
 
 <table width="100%">
   <tr>
@@ -308,12 +320,15 @@ AI conferencing with live speech transcription, semantic search over transcripts
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:dadada,100:dadada&height=2&section=header&text=&animation=false" width="80%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:d8d8d8,100:d8d8d8&height=1&section=header&text=&animation=false" width="74%" />
 </p>
 
 <br/>
 
-## Why Recruiters Should Consider Me
+<div align="center">
+  <h2 style="font-family: Georgia, 'Times New Roman', serif; color: #111111; margin-bottom: 4px;">Why Recruiters Should Consider Me</h2>
+  <img src="https://svgur.com/i/15kA.svg" width="315" height="14" alt="curved underline" />
+</div>
 
 <table width="100%">
   <tr>
@@ -357,7 +372,7 @@ AI conferencing with live speech transcription, semantic search over transcripts
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:dadada,100:dadada&height=2&section=header&text=&animation=false" width="80%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:d8d8d8,100:d8d8d8&height=1&section=header&text=&animation=false" width="74%" />
 </p>
 
 <br/>
@@ -396,7 +411,7 @@ AI conferencing with live speech transcription, semantic search over transcripts
 
   <!-- Footer Wave -->
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:d6d6d6,50:e8e8e8,100:f7f7f7&height=130&section=footer&text=&animation=false"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:d6d6d6,50:e8e8e8,100:f7f7f7&height=120&section=footer&text=&animation=false"
     width="100%"
   />
 
