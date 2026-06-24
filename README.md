@@ -151,7 +151,6 @@ Delivered 5+ client projects for professionals and educational institutions — 
         <img src="https://img.shields.io/badge/Vector_Embeddings-0F766E?style=for-the-badge&logoColor=white&labelColor=0F766E" alt="Vector Embeddings" />
       </p>
     </td>
-
     <td width="33%" valign="top" style="border-right: 1px solid #d8d8d8; padding-left: 18px;">
       <h3>Full Stack Development</h3>
       <p>
@@ -164,7 +163,6 @@ Delivered 5+ client projects for professionals and educational institutions — 
         <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white&labelColor=009639" alt="Nginx" />
       </p>
     </td>
-
     <td width="34%" valign="top" style="padding-left: 18px;">
       <h3>Tools &amp; Platforms</h3>
       <p>
