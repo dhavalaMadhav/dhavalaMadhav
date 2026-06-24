@@ -42,21 +42,11 @@
 
   <br/><br/>
 
-</div>
-
-<div align="center">
-
-  <table border="0" cellspacing="0" cellpadding="0" width="100%">
-    <tr>
-      <td align="left">
-        <img
-          src="https://ghchart.rshah.org/2563eb/dhavalaMadhav"
-          alt="Dhavala Madhav GitHub contribution heatmap"
-          width="1200"
-        />
-      </td>
-    </tr>
-  </table>
+  <img
+    src="https://ghchart.rshah.org/2563eb/dhavalaMadhav"
+    alt="Dhavala Madhav GitHub contribution heatmap"
+    width="92%"
+  />
 
   <br/><br/>
 
@@ -65,19 +55,19 @@
       <td width="70%" align="center" valign="middle">
         <img
           src="https://github-readme-stats.vercel.app/api?username=dhavalaMadhav&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=default&bg_color=fcfcfc&title_color=111111&icon_color=2563eb&text_color=4B5563"
-          width="48%"
+          height="200"
           alt="GitHub Stats"
         />
         <img
           src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhavalaMadhav&layout=compact&hide_border=true&theme=default&bg_color=fcfcfc&title_color=111111&text_color=4B5563&langs_count=8"
-          width="48%"
+          height="200"
           alt="Top Languages"
         />
       </td>
       <td width="30%" align="center" valign="middle">
         <img
           src="https://streak-stats.demolab.com?user=dhavalaMadhav&theme=default&hide_border=true&ring=2563eb&fire=2563eb&currStreakLabel=111111&sideLabels=475569&dates=6B7280"
-          width="100%"
+          height="200"
           alt="Contribution Summary"
         />
         <br/>
