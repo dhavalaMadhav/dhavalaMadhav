@@ -2,64 +2,66 @@
 
   <!-- Header Wave -->
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:f5f5f5,50:e6e6e6,100:cfcfcf&height=175&section=header&text=&animation=false"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:f7f7f7,50:e8e8e8,100:d6d6d6&height=190&section=header&text=&animation=false"
     width="100%"
   />
 
-  <!-- Hero -->
-  <h1 style="margin: 0; padding: 0;">
-    <span style="font-family: Georgia, serif; font-size: 64px; font-weight: 900; color: #0f0f0f; letter-spacing: 0.4px;">
-      Hi, I'm Madhav
+  <!-- Name -->
+  <h1 style="margin: 0; padding: 0; line-height: 1.05;">
+    <span style="font-family: Georgia, 'Times New Roman', serif; font-size: 76px; font-weight: 900; color: #101010; letter-spacing: 0.5px;">
+      Hi, I'm DhavalaMadhav
     </span>
   </h1>
 
-  <!-- Subtitle -->
+  <br/>
+
+  <!-- Animated Subtitle -->
   <img
-    src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=20&duration=3000&pause=1400&color=4A5568&center=true&vCenter=true&repeat=true&width=700&height=34&lines=AI+Engineer+%E2%80%94+RAG+Systems+%26+LLM+Integration;Full+Stack+Developer+%E2%80%94+MERN+%26+FastAPI;Freelancer+%E2%80%94+5%2B+Production+Projects+Shipped;Product+Builder+%E2%80%94+From+Idea+to+Deployment"
+    src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=21&duration=3000&pause=1400&color=425466&center=true&vCenter=true&repeat=true&width=760&height=36&lines=AI+Engineer+%E2%80%94+RAG+Systems+%26+LLM+Integration;Full+Stack+Developer+%E2%80%94+MERN+%26+FastAPI;Freelancer+%E2%80%94+5%2B+Production+Projects+Shipped;Product+Builder+%E2%80%94+From+Idea+to+Deployment"
     alt="Subtitle"
   />
 
-  <br/>
+  <br/><br/>
 
-  <p style="font-family: Georgia, serif; font-size: 16px; color: #2f2f2f; margin: 6px 0;">
-    <strong>AI Engineer &nbsp;•&nbsp; Full Stack Developer &nbsp;•&nbsp; Freelancer</strong>
-  </p>
-
-  <p style="font-family: Georgia, serif; font-size: 14px; color: #555; margin: 2px 0;">
-    B.Tech Computer Science Engineering &nbsp;(CGPA 9.19)
-  </p>
-
-  <p style="font-family: Georgia, serif; font-size: 14px; color: #555; margin: 2px 0 14px 0;">
-    Vignan's Institute of Information Technology &nbsp;·&nbsp; Visakhapatnam, Andhra Pradesh
-  </p>
-
-  <!-- Social Buttons -->
+  <!-- Social Buttons under subtitle -->
   <a href="https://github.com/madhavdhavalasai">
-    <img src="https://img.shields.io/badge/%20%20%20GitHub%20%20%20-111111?style=for-the-badge&logo=github&logoColor=white&labelColor=111111" height="42" style="border-radius: 999px; margin: 6px;" />
+    <img src="https://img.shields.io/badge/%20%20%20GitHub%20%20%20-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" height="48" style="border-radius:999px; margin:7px;" />
   </a>
   &ensp;
   <a href="https://linkedin.com/in/madhavdhavalasai">
-    <img src="https://img.shields.io/badge/%20%20%20LinkedIn%20%20%20-1f1f1f?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1f1f1f" height="42" style="border-radius: 999px; margin: 6px;" />
+    <img src="https://img.shields.io/badge/%20%20%20LinkedIn%20%20%20-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" height="48" style="border-radius:999px; margin:7px;" />
   </a>
   &ensp;
-  <a href="https://madhavdhavalasai.dev">
-    <img src="https://img.shields.io/badge/%20%20%20Portfolio%20%20%20-2a2a2a?style=for-the-badge&logo=vercel&logoColor=white&labelColor=2a2a2a" height="42" style="border-radius: 999px; margin: 6px;" />
+  <a href="https://madhav-dhavala.vercel.app">
+    <img src="https://img.shields.io/badge/%20%20%20Portfolio%20%20%20-14B8A6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=14B8A6" height="48" style="border-radius:999px; margin:7px;" />
   </a>
   &ensp;
   <a href="https://leetcode.com/madhavdhavalasai">
-    <img src="https://img.shields.io/badge/%20%20%20LeetCode%20%20%20-3a3a3a?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=3a3a3a" height="42" style="border-radius: 999px; margin: 6px;" />
+    <img src="https://img.shields.io/badge/%20%20%20LeetCode%20%20%20-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116" height="48" style="border-radius:999px; margin:7px;" />
   </a>
   &ensp;
   <a href="mailto:madhavdhavalasai@gmail.com">
-    <img src="https://img.shields.io/badge/%20%20%20Email%20%20%20-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" height="42" style="border-radius: 999px; margin: 6px;" />
+    <img src="https://img.shields.io/badge/%20%20%20Email%20%20%20-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" height="48" style="border-radius:999px; margin:7px;" />
   </a>
 
   <br/><br/>
+
+  <p style="font-family: Georgia, 'Times New Roman', serif; font-size: 17px; color: #2d2d2d; margin: 6px 0;">
+    <strong>AI Engineer &nbsp;•&nbsp; Full Stack Developer &nbsp;•&nbsp; Freelancer</strong>
+  </p>
+
+  <p style="font-family: Georgia, 'Times New Roman', serif; font-size: 15px; color: #525252; margin: 2px 0;">
+    B.Tech Computer Science Engineering &nbsp;(CGPA 9.19)
+  </p>
+
+  <p style="font-family: Georgia, 'Times New Roman', serif; font-size: 15px; color: #525252; margin: 2px 0 14px 0;">
+    Vignan's Institute of Information Technology &nbsp;·&nbsp; Visakhapatnam, Andhra Pradesh
+  </p>
+
 </div>
 
-<!-- Narrow elegant divider -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:d9d9d9,100:d9d9d9&height=2&section=header&text=&animation=false" width="82%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:dadada,100:dadada&height=2&section=header&text=&animation=false" width="80%" />
 </p>
 
 <br/>
@@ -69,7 +71,7 @@
 ```python
 class MadhavAIEngineer:
 
-    name        = "Dhavala Sai Madhav"
+    name        = "DhavalaMadhav"
     location    = "Visakhapatnam, Andhra Pradesh, India"
     education   = "B.Tech CSE @ VIIT (2023–2027)  |  CGPA: 9.19 / 10"
     roles       = ["AI Engineer", "Full Stack Developer", "Freelancer", "Product Builder"]
@@ -91,11 +93,13 @@ class MadhavAIEngineer:
     open_to     = ["Full-time Roles", "Internships", "AI / Full-Stack Freelance Projects"]
 ```
 
-I engineer AI systems that move beyond demos — contextual, observable, and production-ready.  
+<p style="font-family: Georgia, 'Times New Roman', serif;">
+I engineer AI systems that move beyond demos — contextual, observable, and production-ready.<br/>
 I bring the same rigor to full-stack web work: clean APIs, reliable deployments, real users.
+</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:d9d9d9,100:d9d9d9&height=2&section=header&text=&animation=false" width="82%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:dadada,100:dadada&height=2&section=header&text=&animation=false" width="80%" />
 </p>
 
 <br/>
@@ -114,7 +118,7 @@ Designed and shipped a production-grade conversational AI assistant using RAG �
   <td width="4%"></td>
   <td width="48%" valign="top">
 
-### Full Stack Freelancer · Vexamo
+### Full Stack Freelancer · <a href="https://vexamo.in">Vexamo</a>
 
 Delivered 5+ client projects for professionals and educational institutions — responsive full-stack applications, custom dashboards, and workflow automation tools. Managed the complete project lifecycle from requirements through deployment. Every project ships to production.
 
@@ -125,7 +129,7 @@ Delivered 5+ client projects for professionals and educational institutions — 
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:d9d9d9,100:d9d9d9&height=2&section=header&text=&animation=false" width="82%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:dadada,100:dadada&height=2&section=header&text=&animation=false" width="80%" />
 </p>
 
 <br/>
@@ -141,7 +145,7 @@ Delivered 5+ client projects for professionals and educational institutions — 
 Machine Learning · Deep Learning · NLP · Generative AI · RAG · Vector Embeddings
 
   </td>
-    <td width="50%" valign="top">
+  <td width="50%" valign="top">
 
 ### Full Stack Development
 
@@ -158,7 +162,7 @@ Docker · Nginx · Vercel · Render · Git · GitHub
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:d9d9d9,100:d9d9d9&height=2&section=header&text=&animation=false" width="82%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:dadada,100:dadada&height=2&section=header&text=&animation=false" width="80%" />
 </p>
 
 <br/>
@@ -174,14 +178,14 @@ Docker · Nginx · Vercel · Render · Git · GitHub
 A production-grade Retrieval-Augmented Generation platform with semantic document search, grounded LLM responses, latency monitoring, token analytics, and JSONL telemetry for AI observability.
 
   </td>
-    <td width="33%" valign="top">
+  <td width="33%" valign="top">
 
 ### MailMind
 
 AI email assistant that organizes, summarizes, and acts on emails via LLM-powered automation — connected to Gmail with full OAuth2 security and a clean React frontend.
 
   </td>
-    <td width="33%" valign="top">
+  <td width="33%" valign="top">
 
 ### Meeting Intelligence Platform
 
@@ -194,7 +198,7 @@ AI conferencing with live speech transcription, semantic search over transcripts
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:d9d9d9,100:d9d9d9&height=2&section=header&text=&animation=false" width="82%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:dadada,100:dadada&height=2&section=header&text=&animation=false" width="80%" />
 </p>
 
 <br/>
@@ -205,27 +209,27 @@ AI conferencing with live speech transcription, semantic search over transcripts
   <table cellspacing="0" cellpadding="8" border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=madhavdhavalasai&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=default&bg_color=fcfcfc&title_color=111111&icon_color=2f2f2f&text_color=555555" height="180" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=madhavdhavalasai&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=default&bg_color=fcfcfc&title_color=111111&icon_color=0F766E&text_color=4B5563" height="180" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhavdhavalasai&layout=compact&hide_border=true&theme=default&bg_color=fcfcfc&title_color=111111&text_color=555555&langs_count=8" height="180" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhavdhavalasai&layout=compact&hide_border=true&theme=default&bg_color=fcfcfc&title_color=111111&text_color=4B5563&langs_count=8" height="180" alt="Top Languages" />
       </td>
     </tr>
   </table>
 
   <br/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhavdhavalasai&theme=minimal&bg_color=fcfcfc&color=444444&line=111111&point=2a2a2a&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhavdhavalasai&theme=minimal&bg_color=fcfcfc&color=475569&line=0F766E&point=111111&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
 
   <br/>
 
-  <img src="https://komarev.com/ghpvc/?username=madhavdhavalasai&label=Profile+Views&color=444444&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=madhavdhavalasai&label=Profile+Views&color=0F766E&style=flat-square" />
 </div>
 
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:d9d9d9,100:d9d9d9&height=2&section=header&text=&animation=false" width="82%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:dadada,100:dadada&height=2&section=header&text=&animation=false" width="80%" />
 </p>
 
 <br/>
@@ -247,7 +251,7 @@ AI conferencing with live speech transcription, semantic search over transcripts
 - JavaScript
 
   </td>
-    <td width="50%" valign="top">
+  <td width="50%" valign="top">
 
 ### Recognition
 
@@ -263,7 +267,7 @@ AI conferencing with live speech transcription, semantic search over transcripts
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:d9d9d9,100:d9d9d9&height=2&section=header&text=&animation=false" width="82%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:dadada,100:dadada&height=2&section=header&text=&animation=false" width="80%" />
 </p>
 
 <br/>
@@ -312,46 +316,46 @@ AI conferencing with live speech transcription, semantic search over transcripts
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:d9d9d9,100:d9d9d9&height=2&section=header&text=&animation=false" width="82%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:dadada,100:dadada&height=2&section=header&text=&animation=false" width="80%" />
 </p>
 
 <br/>
 
 <div align="center">
 
-  <p style="font-family: Georgia, serif; font-size: 20px; color: #111111; margin-bottom: 12px;">
+  <p style="font-family: Georgia, 'Times New Roman', serif; font-size: 22px; color: #111111; margin-bottom: 14px;">
     <strong>Let's build something worth shipping.</strong>
   </p>
 
   <a href="https://github.com/madhavdhavalasai">
-    <img src="https://img.shields.io/badge/%20%20%20GitHub%20%20%20-111111?style=for-the-badge&logo=github&logoColor=white" height="42" style="border-radius: 999px; margin: 6px;" />
+    <img src="https://img.shields.io/badge/%20%20%20GitHub%20%20%20-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" height="48" style="border-radius:999px; margin:7px;" />
   </a>
   &ensp;
   <a href="https://linkedin.com/in/madhavdhavalasai">
-    <img src="https://img.shields.io/badge/%20%20%20LinkedIn%20%20%20-1f1f1f?style=for-the-badge&logo=linkedin&logoColor=white" height="42" style="border-radius: 999px; margin: 6px;" />
+    <img src="https://img.shields.io/badge/%20%20%20LinkedIn%20%20%20-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" height="48" style="border-radius:999px; margin:7px;" />
   </a>
   &ensp;
-  <a href="https://madhavdhavalasai.dev">
-    <img src="https://img.shields.io/badge/%20%20%20Portfolio%20%20%20-2a2a2a?style=for-the-badge&logo=vercel&logoColor=white" height="42" style="border-radius: 999px; margin: 6px;" />
+  <a href="https://madhav-dhavala.vercel.app">
+    <img src="https://img.shields.io/badge/%20%20%20Portfolio%20%20%20-14B8A6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=14B8A6" height="48" style="border-radius:999px; margin:7px;" />
   </a>
   &ensp;
   <a href="https://leetcode.com/madhavdhavalasai">
-    <img src="https://img.shields.io/badge/%20%20%20LeetCode%20%20%20-3a3a3a?style=for-the-badge&logo=leetcode&logoColor=white" height="42" style="border-radius: 999px; margin: 6px;" />
+    <img src="https://img.shields.io/badge/%20%20%20LeetCode%20%20%20-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116" height="48" style="border-radius:999px; margin:7px;" />
   </a>
   &ensp;
   <a href="mailto:madhavdhavalasai@gmail.com">
-    <img src="https://img.shields.io/badge/%20%20%20Email%20%20%20-000000?style=for-the-badge&logo=gmail&logoColor=white" height="42" style="border-radius: 999px; margin: 6px;" />
+    <img src="https://img.shields.io/badge/%20%20%20Email%20%20%20-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" height="48" style="border-radius:999px; margin:7px;" />
   </a>
 
   <br/><br/>
 
-  <sub>Dhavala Sai Madhav &nbsp;·&nbsp; Visakhapatnam, India &nbsp;·&nbsp; B.Tech CSE 2027</sub>
+  <sub style="font-family: Georgia, 'Times New Roman', serif;">DhavalaMadhav &nbsp;·&nbsp; Visakhapatnam, India &nbsp;·&nbsp; B.Tech CSE 2027</sub>
 
   <br/><br/>
 
   <!-- Footer Wave -->
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:cfcfcf,50:e6e6e6,100:f5f5f5&height=130&section=footer&text=&animation=false"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:d6d6d6,50:e8e8e8,100:f7f7f7&height=130&section=footer&text=&animation=false"
     width="100%"
   />
 
