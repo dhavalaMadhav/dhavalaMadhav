@@ -52,6 +52,48 @@
     width="92%"
   />
 
+  <br/><br/>
+
+  <!-- Top Analytics Row -->
+  <table width="92%" cellspacing="12" cellpadding="0" border="0">
+    <tr>
+      <td width="68%" valign="top" align="center">
+        <table width="100%" cellspacing="0" cellpadding="8" border="0">
+          <tr>
+            <td>
+              <img
+                src="https://github-readme-stats.vercel.app/api?username=dhavalaMadhav&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=default&bg_color=fcfcfc&title_color=111111&icon_color=2563eb&text_color=4B5563"
+                height="180"
+                alt="GitHub Stats"
+              />
+            </td>
+            <td>
+              <img
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhavalaMadhav&layout=compact&hide_border=true&theme=default&bg_color=fcfcfc&title_color=111111&text_color=4B5563&langs_count=8"
+                height="180"
+                alt="Top Languages"
+              />
+            </td>
+          </tr>
+        </table>
+      </td>
+
+      <td width="32%" valign="top" align="center">
+        <table width="100%" cellspacing="0" cellpadding="18" border="0">
+          <tr>
+            <td align="center">
+              <h1 style="margin: 0; font-size: 54px; color: #111111;">462</h1>
+              <p style="margin: 8px 0 0 0; font-size: 24px; color: #374151;">Total Contributions</p>
+              <p style="margin: 10px 0 0 0; font-size: 16px; color: #6B7280;">Dec 15, 2024 - Present</p>
+              <br/>
+              <img src="https://komarev.com/ghpvc/?username=dhavalaMadhav&label=Profile+Views&color=2563eb&style=flat-square" alt="Profile Views" />
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+
 </div>
 
 <p align="center">
@@ -208,41 +250,6 @@ I bring the same rigor to full-stack web work: clean APIs, reliable deployments,
     </td>
   </tr>
 </table>
-
-<br/>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:bfdbfe,100:60a5fa&height=1&section=header&text=&animation=false" width="74%" alt="divider" />
-</p>
-
-<br/>
-
-<h2 align="left">GitHub Analytics</h2>
-
-<div align="center">
-  <table cellspacing="0" cellpadding="8" border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=dhavalaMadhav&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=default&bg_color=fcfcfc&title_color=111111&icon_color=2563eb&text_color=4B5563" height="180" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhavalaMadhav&layout=compact&hide_border=true&theme=default&bg_color=fcfcfc&title_color=111111&text_color=4B5563&langs_count=8" height="180" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-
-  <br/>
-
-  <img src="https://ghchart.rshah.org/2563eb/dhavalaMadhav" alt="GitHub Contribution Chart" width="100%" />
-
-  <br/><br/>
-
-  <img src="https://streak-stats.demolab.com?user=dhavalaMadhav&theme=default&hide_border=true&ring=2563eb&fire=2563eb&currStreakLabel=111111&sideLabels=475569&dates=6B7280" alt="GitHub Streak" />
-
-  <br/><br/>
-
-  <img src="https://komarev.com/ghpvc/?username=dhavalaMadhav&label=Profile+Views&color=2563eb&style=flat-square" alt="Profile Views" />
-</div>
 
 <br/>
 
